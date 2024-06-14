@@ -1,0 +1,142 @@
+[
+  {
+    "staffNameEng": "成瀬ルイ",
+    "staffNameKana": "Rui",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "AB-",
+    "consti": "さそり座",
+    "position": "主任",
+    "socialLinks": {
+      "X": "twitter.com/resiruirui310",
+      "Instagram": "www.instagram.com/rui__naruse/"
+    }
+  },
+  {
+    "staffNameEng": "一ノ瀬",
+    "staffNameKana": "薫",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "AB-",
+    "consti": "さそり座",
+    "position": "主任",
+    "socialLinks": {
+      "X": "twitter.com/kaoru_ichi_",
+      "Instagram": "www.instagram.com/kaoru_ichi_/"
+    }
+  },
+  {
+    "staffNameEng": "黒崎",
+    "staffNameKana": "剛",
+    "dobDay": "23",
+    "dobMonth": "11",
+    "dobYear": "1999",
+    "height": "181",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "副主任"
+  },
+  {
+    "staffNameEng": "天音",
+    "staffNameKana": "雫",
+    "dobDay": "31",
+    "dobMonth": "8",
+    "dobYear": "1995",
+    "height": "170",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "代表代理",
+    "socialLinks": {
+      "X": "twitter.com/_shizuku0831",
+      "Instagram": "www.instagram.com/shizuku.sinceyou/"
+    },
+    "staffDescription": "「初指名はアフター付きです。」\n※アフターの費用はお客様負担になりますのでご了承ください。"
+  },
+  {
+    "staffNameEng": "大雅",
+    "staffNameKana": "Taiga",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "AB-",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {
+      "X": "twitter.com/taiga77780",
+      "Instagram": "www.instagram.com/0ta0i0ga888resi/"
+    }
+  },
+  {
+    "staffNameEng": "一ノ瀬",
+    "staffNameKana": "快",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "AB-",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {
+      "X": "twitter.com/Resistance_kai",
+      "Instagram": "www.instagram.com/_kai_resistance_/"
+    }
+  },
+  {
+    "staffNameEng": "湊",
+    "staffNameKana": "Minato",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "183",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "リーダー"
+  },
+  {
+    "staffNameEng": "咲夜",
+    "staffNameKana": "蓮",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "AB-",
+    "consti": "さそり座",
+    "position": "主任",
+    "socialLinks": {
+      "X": "twitter.com/crash_ren",
+      "Instagram": "www.instagram.com/sakuya.ren/",
+      "TikTok": "www.tiktok.com/@sakuya.ren"
+    }
+  },
+  {
+    "staffNameEng": "聖人",
+    "staffNameKana": "Seito",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "178",
+    "bloodGroup": "AB-",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/Re_Seito",
+      "Instagram": "www.instagram.com/re_seito/"
+    },
+    "staffDescription": "指名まってます"
+  },
+  {
+    "staffNameEng": "柳",
+    "staffNameKana": "Yanagi",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "AB-",
+    "consti": "さそり座",
+    "position": "リーダー"
+  }
+]

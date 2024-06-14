@@ -1,0 +1,143 @@
+[
+  {
+    "staffNameEng": "桜木みずは",
+    "staffNameKana": "Mizuha",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "164",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "代表",
+    "socialLinks": {
+      "X": "twitter.com/usk_saku",
+      "Instagram": "instagram.com/mizuha_1110",
+      "TikTok": "www.tiktok.com/@mizuha_usk"
+    }
+  },
+  {
+    "staffNameEng": "月愛",
+    "staffNameKana": "Kagura",
+    "dobDay": "5",
+    "dobMonth": "9",
+    "dobYear": "2001",
+    "height": "178",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "副主任",
+    "socialLinks": {
+      "X": "twitter.com/kagura_aria_",
+      "Instagram": "www.instagram.com/kagura._.aria/"
+    },
+    "staffDescription": "僕は一人暮らしの大学生"
+  },
+  {
+    "staffNameEng": "嵐",
+    "staffNameKana": "Ran",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "164",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "リーダー",
+    "socialLinks": {
+      "X": "twitter.com/ranacqua_",
+      "Instagram": "www.instagram.com/ranacqua_/"
+    }
+  },
+  {
+    "staffNameEng": "六道りんね",
+    "staffNameKana": "Rinne",
+    "dobDay": "31",
+    "dobMonth": "10",
+    "dobYear": "2003",
+    "height": "167",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/rinrin_ars_",
+      "Instagram": "www.instagram.com/rinrin._.ars",
+      "TikTok": "www.tiktok.com/@userrsq6ow4ixu"
+    },
+    "staffDescription": "大きいです"
+  },
+  {
+    "staffNameEng": "望月白兎",
+    "staffNameKana": "Hakuto",
+    "dobDay": "3",
+    "dobMonth": "7",
+    "dobYear": "2001",
+    "height": "183",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/hakuto_71930",
+      "Instagram": "www.instagram.com/hakuto_71930/",
+      "TikTok": "www.tiktok.com/@hakuto_71930"
+    }
+  },
+  {
+    "staffNameEng": "一色冬夜",
+    "staffNameKana": "Toya",
+    "dobDay": "19",
+    "dobMonth": "12",
+    "dobYear": "2002",
+    "height": "173",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "Instagram": "www.instagram.com/touya_acqua",
+      "TikTok": "www.tiktok.com/@touya_acqua_ars"
+    }
+  },
+  {
+    "staffNameEng": "天宮麗音",
+    "staffNameKana": "Rein",
+    "dobDay": "13",
+    "dobMonth": "6",
+    "dobYear": "2002",
+    "height": "175",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/ARIA_Rays",
+      "Instagram": "www.instagram.com/rays_aria/",
+      "TikTok": "www.tiktok.com/@aria_rays"
+    },
+    "staffDescription": "テキーラください"
+  },
+  {
+    "staffNameEng": "愛咲",
+    "staffNameKana": "京",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "164",
+    "bloodGroup": "O+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "のぞみ@すごくヤバい",
+    "staffNameKana": "Sugokuyabai",
+    "dobDay": "8",
+    "dobMonth": "11",
+    "dobYear": "1995",
+    "height": "164",
+    "bloodGroup": "O+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "成瀬銀次",
+    "staffNameKana": "Ginji",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "Instagram": "www.instagram.com/gin_ldh"
+    }
+  }
+]

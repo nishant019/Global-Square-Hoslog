@@ -1,0 +1,83 @@
+[
+  {
+    "staffName": "Jin Jin",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "代表取締役",
+    "folderName": "jin"
+  },
+  {
+    "staffName": "ジュン Jun",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "代表取締役",
+    "folderName": "jun"
+  },
+  {
+    "staffName": "二ノ宮 氷雅 Hyoga Ninomiya",
+    "dobDay": "31",
+    "dobMonth": "10",
+    "dobYear": "1991",
+    "height": "181",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "position": "Executive Player",
+    "socialLinks": "\"TEL：\\n08096968323\\nLINE：\\n08060428687\\nX：\\ntwitter.com/hyoga19911031\\nInstagram：\\nwww.instagram.com/hyoga.1031\"",
+    "folderName": "hyoga"
+  },
+  {
+    "staffName": "柊 黒 Kuro Hiiragi",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "Super Player",
+    "socialLinks": "\"LINE：\\nabc6345\"",
+    "folderName": "kuro01"
+  },
+  {
+    "staffName": "山田ギャル咲 Yamada Gyarusho",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "folderName": "sho"
+  },
+  {
+    "staffName": "飴宮りんご Ringo Amemiya",
+    "dobDay": "11",
+    "dobMonth": "8",
+    "dobYear": "1995",
+    "height": "173",
+    "bloodGroup": "AB+",
+    "consti": "さそり座",
+    "position": "プレイングマネージャー",
+    "socialLinks": "\"X：\\ntwitter.com/chiyopom\"",
+    "staffDescription": "ドラクエやりたい。",
+    "folderName": "ringo"
+  },
+  {
+    "staffName": "下東由朋 Yoshitomo Shimohigashi",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "オーナー",
+    "folderName": "yoshitomo"
+  }
+]

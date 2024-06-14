@@ -1,0 +1,118 @@
+[
+  {
+    "staffNameEng": "水城はる",
+    "staffNameKana": "Haru",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "169",
+    "bloodGroup": "B+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "蒼井ゆうと",
+    "staffNameKana": "Yuto",
+    "dobDay": "18",
+    "dobMonth": "8",
+    "dobYear": "1994",
+    "height": "169",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "position": "代表取締役",
+    "socialLinks": {
+      "twitter": "twitter.com/yuto818aoi",
+      "Instagram": "www.instagram.com/yuto818aoi/"
+    }
+  },
+  {
+    "staffNameEng": "源",
+    "staffNameKana": "魁斗",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "169",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "position": "主任",
+    "socialLinks": {
+      "twitter": "twitter.com/kaito_clubboy",
+      "Instagram": "www.instagram.com/kaito_clubboy/"
+    }
+  },
+  {
+    "staffNameEng": "咲夜",
+    "staffNameKana": "京",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "169",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "twitter": "twitter.com/sakuya_kyou",
+      "Instagram": "www.instagram.com/sakuya_kyou/"
+    }
+  },
+  {
+    "staffNameEng": "一翔",
+    "staffNameKana": "Kazuto",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "169",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "position": "CP"
+  },
+  {
+    "staffNameEng": "誠",
+    "staffNameKana": "Makoto",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "169",
+    "bloodGroup": "B+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "涼",
+    "staffNameKana": "Ryo",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "169",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "position": "CP"
+  },
+  {
+    "staffNameEng": "亜嵐",
+    "staffNameKana": "Aran",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "169",
+    "bloodGroup": "B+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "???",
+    "staffNameKana": "???",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "169",
+    "bloodGroup": "B+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "怜音",
+    "staffNameKana": "Reo",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "169",
+    "bloodGroup": "B+",
+    "consti": "さそり座"
+  }
+]

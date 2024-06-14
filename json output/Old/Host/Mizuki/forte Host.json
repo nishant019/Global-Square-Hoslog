@@ -1,0 +1,46 @@
+[
+  {
+    "staffNameEng": "ジャスティンあずさ",
+    "staffNameKana": "Azusa",
+    "dobDay": "10",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "172",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "統括店長",
+    "socialLinks": {
+      "LINE": "kj0910azusa",
+      "X": "twitter.com/justinazusa0910",
+      "Instagram": "www.instagram.com/justin_azusa/",
+      "Youtube": "www.youtube.com/c/%E3%81%BB%E3%81%99%E3%81%A1%E3%82%8B-Hostchildren"
+    },
+    "staffDescription": "環境面、給料面、わからない事は何一つないので、気になればご連絡下さい!!"
+  },
+  {
+    "staffNameEng": "黒城総司",
+    "staffNameKana": "Soshi",
+    "dobDay": "26",
+    "dobMonth": "5",
+    "dobYear": "1995",
+    "height": "180",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "グループ取締役",
+    "socialLinks": {
+      "X": "twitter.com/kurokisoushi"
+    },
+    "staffDescription": "club FINO　良い男ぞろいなので遊びに来て下さい!"
+  },
+  {
+    "staffNameEng": "空雅",
+    "staffNameKana": "Kuga",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "グループオーナー"
+  }
+]

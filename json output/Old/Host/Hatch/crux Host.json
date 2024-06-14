@@ -1,0 +1,120 @@
+[
+  {
+    "staffNameEng": "鳳",
+    "staffNameKana": "零",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "主任"
+  },
+  {
+    "staffNameEng": "裕雅",
+    "staffNameKana": "Yuga",
+    "dobDay": "15",
+    "dobMonth": "4",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "副主任"
+  },
+  {
+    "staffNameEng": "凛柊水蘭",
+    "staffNameKana": "Miran",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "幹部補佐"
+  },
+  {
+    "staffNameEng": "御恵紳雅",
+    "staffNameKana": "Shinga",
+    "dobDay": "22",
+    "dobMonth": "11",
+    "dobYear": "1996",
+    "height": "173",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {
+      "twitter": "twitter.com/CRUX_SNG",
+      "instagram": "www.instagram.com/shin.0420d/",
+      "tiktok": "www.tiktok.com/@s.n.gaaa"
+    }
+  },
+  {
+    "staffNameEng": "響夜一生",
+    "staffNameKana": "Issei",
+    "dobDay": "26",
+    "dobMonth": "3",
+    "dobYear": "2001",
+    "height": "178",
+    "bloodGroup": "AB+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "staffDescription": "沼る自信があったら指名して"
+  },
+  {
+    "staffNameEng": "Mr.T",
+    "staffNameKana": "Mr.T",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "梓輝",
+    "staffNameKana": "Azuki",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "時峰真希",
+    "staffNameKana": "Maki",
+    "dobDay": "7",
+    "dobMonth": "1",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "幹部補佐"
+  },
+  {
+    "staffNameEng": "京",
+    "staffNameKana": "Kyo",
+    "dobDay": "25",
+    "dobMonth": "1",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "帝",
+    "staffNameKana": "Mikado",
+    "dobDay": "29",
+    "dobMonth": "9",
+    "dobYear": "2000",
+    "height": "172",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "twitter": "twitter.com/mikado_0929",
+      "instagram": "www.instagram.com/mikado_0929/",
+      "tiktok": "www.tiktok.com/@mikado_space"
+    },
+    "staffDescription": "いつでも指名まってるで～～～～!!"
+  }
+]

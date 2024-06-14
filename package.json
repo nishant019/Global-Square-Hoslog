@@ -1,0 +1,24 @@
+{
+  "name": "web-automations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.0",
+    "json": "^11.0.0",
+    "jsonpath": "^1.1.1",
+    "path": "^0.12.7",
+    "xlsx": "^0.19.3"
+  },
+  "devDependencies": {
+    "cypress-fs": "^0.2.4",
+    "fs": "^0.0.1-security",
+    "node-xlsx": "^0.23.0",
+    "playwright-webkit": "1.34"
+  }
+}

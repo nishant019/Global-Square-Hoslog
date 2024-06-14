@@ -1,0 +1,139 @@
+[
+  {
+    "staffNameEng": "黒羽花道",
+    "staffNameKana": "Hanamichi",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "部長"
+  },
+  {
+    "staffNameEng": "よち。",
+    "staffNameKana": "Yochi",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "AB+",
+    "consti": "さそり座",
+    "position": "総支配人",
+    "socialLinks": {
+      "X": "twitter.com/yochimaru___",
+      "Instagram": "www.instagram.com/yochimaru___/",
+      "TikTok": "www.tiktok.com/@yochimaru_"
+    },
+    "staffDescription": "俺で間違いない!!!"
+  },
+  {
+    "staffNameEng": "シン・大輝",
+    "staffNameKana": "Daiki",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "ebidai0822",
+      "X": "twitter.com/ddd666tweet",
+      "Instagram": "www.instagram.com/ddd666gram/"
+    }
+  },
+  {
+    "staffNameEng": "柊",
+    "staffNameKana": "優月",
+    "dobDay": "15",
+    "dobMonth": "11",
+    "dobYear": "1999",
+    "height": "170",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "position": "副主任",
+    "socialLinks": {
+      "LINE": "yuumoni1115",
+      "X": "twitter.com/yuzuki_LUXURY",
+      "Instagram": "www.instagram.com/yuzuki_luxury22"
+    },
+    "staffDescription": "年間1億目指すよ"
+  },
+  {
+    "staffNameEng": "ちるちる☆みちる",
+    "staffNameKana": "Michiru",
+    "dobDay": "5",
+    "dobMonth": "5",
+    "dobYear": "1995",
+    "height": "160",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "支配人",
+    "socialLinks": {
+      "Instagram": "www.instagram.com/michiru_hima"
+    },
+    "staffDescription": "ちるしようぜ"
+  },
+  {
+    "staffNameEng": "七瀬",
+    "staffNameKana": "麗",
+    "dobDay": "25",
+    "dobMonth": "7",
+    "dobYear": "1995",
+    "height": "175",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {
+      "X": "twitter.com/rei_nanase_",
+      "Instagram": "www.instagram.com/rei_7se"
+    },
+    "staffDescription": "いっぱい飲も〜！"
+  },
+  {
+    "staffNameEng": "咲月綺雫",
+    "staffNameKana": "Ayana",
+    "dobDay": "7",
+    "dobMonth": "5",
+    "dobYear": "1995",
+    "height": "173",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "主任",
+    "socialLinks": {
+      "LINE": "stg57",
+      "Instagram": "www.instagram.com/ayana_satuki/"
+    },
+    "staffDescription": "飲もやー！"
+  },
+  {
+    "staffNameEng": "一条",
+    "staffNameKana": "蓮",
+    "dobDay": "18",
+    "dobMonth": "4",
+    "dobYear": "2002",
+    "height": "175",
+    "bloodGroup": "A+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "ケイ",
+    "staffNameKana": "Kei",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "179",
+    "bloodGroup": "B+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "胡蝶",
+    "staffNameKana": "蘭",
+    "dobDay": "17",
+    "dobMonth": "12",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座"
+  }
+]

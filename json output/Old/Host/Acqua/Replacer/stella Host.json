@@ -1,0 +1,144 @@
+[
+  {
+    "staffNameEng": "Uru",
+    "staffNameKana": "Uru",
+    "dobDay": "27",
+    "dobMonth": "11",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "EP",
+    "socialLinks": {
+      "LINE": "code3123",
+      "X": "twitter.com/Coopay3123",
+      "Instagram": "www.instagram.com/coopay3123"
+    }
+  },
+  {
+    "staffNameEng": "こころ",
+    "staffNameKana": "Kokoro",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "支配人",
+    "socialLinks": {
+      "X": "twitter.com/BattaOsashimi",
+      "Instagram": "www.instagram.com/kokorokokoni_arazu/"
+    }
+  },
+  {
+    "staffNameEng": "秋風リューキ",
+    "staffNameKana": "Ryuki",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "178",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/akrk_st3",
+      "Instagram": "www.instagram.com/akrk_st3/",
+      "TikTok": "www.tiktok.com/@akrk_1ly"
+    }
+  },
+  {
+    "staffNameEng": "怜",
+    "staffNameKana": "Rei",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "O+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "響あやと",
+    "staffNameKana": "Ayato",
+    "dobDay": "14",
+    "dobMonth": "4",
+    "dobYear": "1995",
+    "height": "162",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "代表取締役",
+    "socialLinks": {
+      "X": "twitter.com/ST3LLA_Ayato",
+      "Instagram": "www.instagram.com/ayato_pinkman/"
+    },
+    "staffDescription": "男の子も女の子もLINE、DM送って！"
+  },
+  {
+    "staffNameEng": "ゆいと",
+    "staffNameKana": "Yuito",
+    "dobDay": "31",
+    "dobMonth": "12",
+    "dobYear": "1995",
+    "height": "174",
+    "bloodGroup": "AB+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/@479bluee",
+      "Instagram": "www.instagram.com/479blue"
+    }
+  },
+  {
+    "staffNameEng": "皐月颯斗",
+    "staffNameKana": "Hayato",
+    "dobDay": "4",
+    "dobMonth": "5",
+    "dobYear": "1995",
+    "height": "171",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/hachan5454",
+      "Instagram": "www.instagram.com/ ha.st3lla"
+    }
+  },
+  {
+    "staffNameEng": "春",
+    "staffNameKana": "Haru",
+    "dobDay": "27",
+    "dobMonth": "2",
+    "dobYear": "1995",
+    "height": "171",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "Instagram": "www.instagram.com/st3lla_halu"
+    },
+    "staffDescription": "明るく元気なホストを目指して日々頑張ってます！"
+  },
+  {
+    "staffNameEng": "神咲天音",
+    "staffNameKana": "Amane",
+    "dobDay": "1",
+    "dobMonth": "4",
+    "dobYear": "1995",
+    "height": "175",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/Ama_ne9",
+      "Instagram": "www.instagram.com/amane_1LY"
+    }
+  },
+  {
+    "staffNameEng": "みなみ",
+    "staffNameKana": "Minami",
+    "dobDay": "29",
+    "dobMonth": "10",
+    "dobYear": "2001",
+    "height": "180",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "Instagram": "www.instagram.com/Minami._handsome"
+    },
+    "staffDescription": "友達100人"
+  }
+]

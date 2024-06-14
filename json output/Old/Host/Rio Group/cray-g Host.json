@@ -1,0 +1,142 @@
+[
+  {
+    "staffNameEng": "透輝",
+    "staffNameKana": "Toki",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "副主任"
+  },
+  {
+    "staffNameEng": "朝比奈",
+    "staffNameKana": "氷",
+    "dobDay": "5",
+    "dobMonth": "2",
+    "dobYear": "1995",
+    "height": "164",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "TEL": "090-8387-8231",
+      "mail": "shinma0205@ezweb.ne.jp"
+    },
+    "staffDescription": "1回しゃべったら絶対忘れへん"
+  },
+  {
+    "staffNameEng": "愛咲麗夜",
+    "staffNameKana": "Reiya",
+    "dobDay": "6",
+    "dobMonth": "8",
+    "dobYear": "2000",
+    "height": "175",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "Legend Player",
+    "socialLinks": {
+      "LINE": "hi—hi86",
+      "X": "twitter.com/Reiya__spl",
+      "Instagram": "www.instagram.com/reiya_spl/"
+    },
+    "staffDescription": "指名が欲しい"
+  },
+  {
+    "staffNameEng": "NAO",
+    "staffNameKana": "Nao",
+    "dobDay": "18",
+    "dobMonth": "9",
+    "dobYear": "1994",
+    "height": "174",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "主任",
+    "socialLinks": {
+      "Instagram": "www.instagram.com/spl.nao_918"
+    }
+  },
+  {
+    "staffNameEng": "快",
+    "staffNameKana": "Kai",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "O+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "愛乃",
+    "staffNameKana": "蓮",
+    "dobDay": "6",
+    "dobMonth": "11",
+    "dobYear": "2000",
+    "height": "176",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/@Ren_aino_spl",
+      "Instagram": "www.instagram.com/ren.aino_spl"
+    },
+    "staffDescription": "初回指名待ってます！！！"
+  },
+  {
+    "staffNameEng": "一ノ瀬",
+    "staffNameKana": "庵",
+    "dobDay": "16",
+    "dobMonth": "6",
+    "dobYear": "1995",
+    "height": "300",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "代表",
+    "socialLinks": {
+      "TEL": "090-7586-2989",
+      "LINE": "iori0616",
+      "X": "twitter.com/HimaiNomitai",
+      "Instagram": "www.instagram.com/iori.spl"
+    },
+    "staffDescription": "会えるアイドルしてます。\nわがまま王子様なんでメンヘラうさぎちゃん\n大好きです(笑)☆"
+  },
+  {
+    "staffNameEng": "大成",
+    "staffNameKana": "Taisei",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "幹部補佐"
+  },
+  {
+    "staffNameEng": "天使ケイト",
+    "staffNameKana": "Keito",
+    "dobDay": "8",
+    "dobMonth": "12",
+    "dobYear": "1998",
+    "height": "175",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "副主任",
+    "socialLinks": {
+      "LINE": "iktht",
+      "X": "twitter.com/keito_spl",
+      "Instagram": "www.instagram.com/keito_spl"
+    },
+    "staffDescription": "圧倒的イケメンに会いたいならcray-G！"
+  },
+  {
+    "staffNameEng": "龍二",
+    "staffNameKana": "Ryuji",
+    "dobDay": "29",
+    "dobMonth": "12",
+    "dobYear": "1995",
+    "height": "171",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "staffDescription": "とりあえず会いに来て"
+  }
+]

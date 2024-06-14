@@ -1,0 +1,140 @@
+[
+  {
+    "staffNameEng": "七瀬海渡",
+    "staffNameKana": "Kaito",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "132",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "支配人",
+    "socialLinks": {
+      "X": "twitter.com/kaitodayo0905",
+      "Instagram": "www.instagram.com/kaito_sincefesta"
+    }
+  },
+  {
+    "staffNameEng": "レオ",
+    "staffNameKana": "Reo",
+    "dobDay": "31",
+    "dobMonth": "8",
+    "dobYear": "1998",
+    "height": "124",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "CP",
+    "socialLinks": {
+      "LINE": "0831123456789",
+      "Instagram": "www.instagram.com/reo6637"
+    }
+  },
+  {
+    "staffNameEng": "ミサイル•G•アキ",
+    "staffNameKana": "Aki",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "180",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/festaaki0813",
+      "Instagram": "www.instagram.com/misairu.g.aki"
+    },
+    "staffDescription": "歴代酒豪王 殿堂入り\n酒が飲めない豚はただの豚"
+  },
+  {
+    "staffNameEng": "本城雅輝",
+    "staffNameKana": "Masaki",
+    "dobDay": "15",
+    "dobMonth": "5",
+    "dobYear": "1993",
+    "height": "170",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "マネージャー",
+    "socialLinks": {
+      "TEL": "080-6433-8793",
+      "LINE": "sinceyou19930515"
+    }
+  },
+  {
+    "staffNameEng": "凛",
+    "staffNameKana": "Rin",
+    "dobDay": "31",
+    "dobMonth": "7",
+    "dobYear": "1995",
+    "height": "177",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "position": "CP",
+    "socialLinks": {
+      "TEL": "080-3482-5304",
+      "LINE": "yonarin"
+    }
+  },
+  {
+    "staffNameEng": "ハヤト",
+    "staffNameKana": "Hayato",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "132",
+    "bloodGroup": "O+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "紅月",
+    "staffNameKana": "秀",
+    "dobDay": "18",
+    "dobMonth": "7",
+    "dobYear": "1995",
+    "height": "178",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "Instagram": "www.instagram.com/hide_akatsuki"
+    }
+  },
+  {
+    "staffNameEng": "ひなた",
+    "staffNameKana": "Hinata",
+    "dobDay": "3",
+    "dobMonth": "3",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "impossible0303",
+      "X": "twitter.com/hinata_festa",
+      "Instagram": "www.instagram.com/hinata0303_s"
+    }
+  },
+  {
+    "staffNameEng": "TARO",
+    "staffNameKana": "Taro",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "132",
+    "bloodGroup": "O+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "大神王呀",
+    "staffNameKana": "Oga",
+    "dobDay": "17",
+    "dobMonth": "12",
+    "dobYear": "1987",
+    "height": "178",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "position": "代表",
+    "socialLinks": {
+      "TEL": "080-4861-9140",
+      "LINE": "ouga708"
+    }
+  }
+]

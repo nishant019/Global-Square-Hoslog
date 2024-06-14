@@ -1,0 +1,654 @@
+[
+  {
+    "staffName": "雨宮美輝 Miki Amamiya",
+    "dobDay": "30",
+    "dobMonth": "3",
+    "dobYear": "1995",
+    "height": "174",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "主任",
+    "socialLinks": {
+      "LINE": "ex.3jsb.ex",
+      "X": "twitter.com/miki_alpha0330",
+      "Instagram": "www.instagram.com/miki_alpha0330/"
+    },
+    "staffDescription": "ライン待ってるンゴ",
+    "folderName": "miki",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/miki/index.html"
+  },
+  {
+    "staffName": "爽 So",
+    "dobDay": "29",
+    "dobMonth": "6",
+    "dobYear": "1995",
+    "height": "175",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "主任",
+    "socialLinks": {
+      "LINE": "48692021",
+      "X": "twitter.com/sou_acqua_alpha",
+      "Instagram": "www.instagram.com/sou_acqua_alpha/"
+    },
+    "staffDescription": "初心者ですが、お手柔らかにお願いします。",
+    "folderName": "so",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/so/index.html"
+  },
+  {
+    "staffName": "亜璃珠 帝雅 Taiga Arisu",
+    "dobDay": "3",
+    "dobMonth": "4",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "代表取締役",
+    "socialLinks": {
+      "LINE": "DJ-EL-dRWs",
+      "X": "twitter.com/taigaalice43",
+      "Instagram": "www.instagram.com/taigaalice43/"
+    },
+    "staffDescription": "気楽に連絡ください！",
+    "folderName": "taiga",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/taiga/index.html"
+  },
+  {
+    "staffName": "七瀬るい Rui Nanase",
+    "dobDay": "12",
+    "dobMonth": "7",
+    "dobYear": "1995",
+    "height": "170",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "取締役",
+    "socialLinks": {
+      "LINE": "tatsu-712",
+      "X": "www.tiktok.com/@nanaserui?_t=8hxffNhfXXt&_r=",
+      "Instagram": "www.instagram.com/rui_kun7"
+    },
+    "staffDescription": "ナナセルイシカカタン",
+    "folderName": "rui",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/rui/index.html"
+  },
+  {
+    "staffName": "雷雨 Raiu",
+    "dobDay": "13",
+    "dobMonth": "1",
+    "dobYear": "1999",
+    "height": "?",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "主任",
+    "socialLinks": {
+      "LINE": "raiu0101",
+      "X": "twitter.com/raiu_0101",
+      "Instagram": "www.instagram.com/raiu_0704"
+    },
+    "folderName": "raiu",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/raiu/index.html"
+  },
+  {
+    "staffName": "こうき Koki",
+    "dobDay": "21",
+    "dobMonth": "8",
+    "dobYear": "1999",
+    "height": "171",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {
+      "LINE": "kouki08217",
+      "X": "twitter.com/alpha_kouki",
+      "Instagram": "www.instagram.com/alpha_kouki"
+    },
+    "staffDescription": "シャンパンほちい",
+    "folderName": "koki01",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/koki01/index.html"
+  },
+  {
+    "staffName": "白恋風磨 Fuma Hakuren",
+    "dobDay": "1",
+    "dobMonth": "8",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "副主任",
+    "socialLinks": {
+      "LINE": "hakurenfma",
+      "X": "twitter.com/hakurenfuma",
+      "Instagram": "www.instagram.com/hakurenfuma/"
+    },
+    "staffDescription": "圧倒的ジャニーズフェイス",
+    "folderName": "fuma",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/fuma/index.html"
+  },
+  {
+    "staffName": "凜 Rin",
+    "dobDay": "3",
+    "dobMonth": "4",
+    "dobYear": "1995",
+    "height": "171",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "position": "副主任",
+    "socialLinks": {
+      "LINE": "gayagaya0403",
+      "X": "twitter.com/mobile.rin_o0_alpha",
+      "Instagram": "www.instagram.com/rr__in0o/"
+    },
+    "staffDescription": "とりあえず見てくれてありがと",
+    "folderName": "rin",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/rin/index.html"
+  },
+  {
+    "staffName": "キルア Kirua",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "170",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/killuakun_82",
+      "Instagram": "www.instagram.com/killuakun_82"
+    },
+    "folderName": "kirua01",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/kirua01/index.html"
+  },
+  {
+    "staffName": "枢木瑛飛 Eito Kururugi",
+    "dobDay": "7",
+    "dobMonth": "4",
+    "dobYear": "1995",
+    "height": "169",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {
+      "LINE": "wimper-s2",
+      "X": "twitter.com/mobile.eito_alpha",
+      "Instagram": "www.instagram.com/alpha_eito/"
+    },
+    "folderName": "eito",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/eito/index.html"
+  },
+  {
+    "staffName": "一ノ瀬 愛嵐 Aran Ichinose",
+    "dobDay": "15",
+    "dobMonth": "7",
+    "dobYear": "1995",
+    "height": "170",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "支配人",
+    "socialLinks": {
+      "LINE": "natsu_1999.7",
+      "X": "twitter.com/mobile.alan_1999_7",
+      "Instagram": "www.instagram.com/alan_1999_7/"
+    },
+    "staffDescription": "インスタも見てね！",
+    "folderName": "aran",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/aran/index.html"
+  },
+  {
+    "staffName": "零 Zero",
+    "dobDay": "17",
+    "dobMonth": "6",
+    "dobYear": "1995",
+    "height": "171",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {
+      "LINE": "sirvia13",
+      "X": "twitter.com/alpha_zero000",
+      "Instagram": "www.instagram.com/alpha__zero000"
+    },
+    "folderName": "zero",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/zero/index.html"
+  },
+  {
+    "staffName": "善 Zen",
+    "dobDay": "14",
+    "dobMonth": "2",
+    "dobYear": "1995",
+    "height": "214",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {
+      "LINE": "periodiczone",
+      "X": "twitter.com/@PeriodicZEN_",
+      "Instagram": "www.instagram.com/zentarouu"
+    },
+    "folderName": "zen",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/zen/index.html"
+  },
+  {
+    "staffName": "凪 Nagi",
+    "dobDay": "25",
+    "dobMonth": "7",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "peacemonky",
+      "X": "mobile.twitter.com/nagi725_alpha",
+      "Instagram": "www.instagram.com/peace_monkey6"
+    },
+    "folderName": "nagisa01",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/nagisa01/index.html"
+  },
+  {
+    "staffName": "星屑れい Rei Hoshikuzu",
+    "dobDay": "10",
+    "dobMonth": "4",
+    "dobYear": "1995",
+    "height": "175",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/@reirei_fufu",
+      "Instagram": "www.instagram.com/reirei._.fufu"
+    },
+    "staffDescription": "俺の顔好きなら指名しなよ",
+    "folderName": "rei01",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/rei01/index.html"
+  },
+  {
+    "staffName": "如月かえで Kaede Kisaragi",
+    "dobDay": "13",
+    "dobMonth": "1",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "副主任",
+    "socialLinks": {
+      "LINE": "kaede_kun13",
+      "X": "twitter.com/@kaede_kun13",
+      "Instagram": "www.instagram.com/kaede_kun13"
+    },
+    "staffDescription": "初回指名待ってます！\n気軽に連絡してねっ★",
+    "folderName": "kaede",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/kaede/index.html"
+  },
+  {
+    "staffName": "優夜 Yuya",
+    "dobDay": "25",
+    "dobMonth": "3",
+    "dobYear": "1999",
+    "height": "182",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {
+      "LINE": "deguchi0325",
+      "X": "twitter.com/alpha_yuya",
+      "Instagram": "www.instagram.com/yuyalpha_acqua"
+    },
+    "folderName": "yuya01",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/yuya01/index.html"
+  },
+  {
+    "staffName": "仁 Jin",
+    "dobDay": "1",
+    "dobMonth": "1",
+    "dobYear": "1995",
+    "height": "175",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "リーダー",
+    "socialLinks": {
+      "LINE": "sasa150101",
+      "X": "twitter.com/jin_alpha_11",
+      "Instagram": "www.instagram.com/jin_alpha_11/"
+    },
+    "staffDescription": "初回指名お待ちしてます！\nSNSもチェック！！",
+    "folderName": "jin",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/jin/index.html"
+  },
+  {
+    "staffName": "桜都 Roido",
+    "dobDay": "12",
+    "dobMonth": "8",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "リーダー",
+    "socialLinks": {
+      "LINE": "roido0812",
+      "X": "twitter.com/_a_roido_",
+      "Instagram": "www.instagram.com/_a_.roido_"
+    },
+    "staffDescription": "キュンキュンして",
+    "folderName": "roido",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/roido/index.html"
+  },
+  {
+    "staffName": "るん Run",
+    "dobDay": "5",
+    "dobMonth": "1",
+    "dobYear": "1995",
+    "height": "172",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "rururuk15",
+      "X": "twitter.com/osakerunrun",
+      "Instagram": "www.instagram.com/osakerunrun/"
+    },
+    "folderName": "run",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/run/index.html"
+  },
+  {
+    "staffName": "けんてぃ Kentei",
+    "dobDay": "4",
+    "dobMonth": "7",
+    "dobYear": "1995",
+    "height": "170",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "fd3s74",
+      "X": "twitter.com/dadada_88888",
+      "Instagram": "www.instagram.com/dadada_88888/"
+    },
+    "staffDescription": "とりあえず指名してみな??",
+    "folderName": "kentei",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/kentei/index.html"
+  },
+  {
+    "staffName": "みなとみらい Mirai Minato",
+    "dobDay": "16",
+    "dobMonth": "5",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/alpha_mirai",
+      "Instagram": "www.instagram.com/alpha_mirai"
+    },
+    "staffDescription": "指名待ってます",
+    "folderName": "mirai",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/mirai/index.html"
+  },
+  {
+    "staffName": "南雲ルナ Runa Nagumo",
+    "dobDay": "8",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "178",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "epsilonmn",
+      "X": "twitter.com/Runa_em_",
+      "Instagram": "www.instagram.com/runa_em_"
+    },
+    "folderName": "runa",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/runa/index.html"
+  },
+  {
+    "staffName": "荀 Jun",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "amaannadimkhan",
+      "X": "twitter.com/Alpha_jun_",
+      "Instagram": "www.instagram.com/jun_alpha_114514"
+    },
+    "folderName": "jun",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/jun/index.html"
+  },
+  {
+    "staffName": "僕が稜た Ryota Bokuga",
+    "dobDay": "16",
+    "dobMonth": "2",
+    "dobYear": "2001",
+    "height": "167",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "ryo-ta0216",
+      "X": "twitter.com/bokuga_ryota",
+      "Instagram": "www.instagram.com/bokuga_ryota"
+    },
+    "staffDescription": "沢山僕のことを知ってください！",
+    "folderName": "ryota01",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/ryota01/index.html"
+  },
+  {
+    "staffName": "黒宮 椿 Tsubaki Kuromiya",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "175",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "b20010421",
+      "X": "twitter.com/@kuromiya_tubaki",
+      "Instagram": "www.instagram.com/kuromiya_tubaki"
+    },
+    "folderName": "tsubaki",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/tsubaki/index.html"
+  },
+  {
+    "staffName": "夏向 Kanata",
+    "dobDay": "11",
+    "dobMonth": "7",
+    "dobYear": "2003",
+    "height": "175",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "watasuke1234",
+      "X": "twitter.com/kanata__alpha",
+      "Instagram": "www.instagram.com/alpha_kanata"
+    },
+    "staffDescription": "最強のホストになります",
+    "folderName": "kanata",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/kanata/index.html"
+  },
+  {
+    "staffName": "冬島望亜 Noa Fuyushima",
+    "dobDay": "18",
+    "dobMonth": "7",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "folderName": "noa01",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/noa01/index.html"
+  },
+  {
+    "staffName": "RYOTA Ryota",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "staffDescription": "飲みたがり大集合",
+    "folderName": "ryota",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/ryota/index.html"
+  },
+  {
+    "staffName": "魅月幻音 Noa Mizuki",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "17",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "staffDescription": "独断と偏見で判断するより会いにくれば？",
+    "folderName": "noa",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/noa/index.html"
+  },
+  {
+    "staffName": "りく Riku",
+    "dobDay": "11",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "170",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "staffDescription": "一緒に楽しくお酒飲みましょう٩( 'ω' )و",
+    "folderName": "riku",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/riku/index.html"
+  },
+  {
+    "staffName": "柊璃 Tori",
+    "dobDay": "27",
+    "dobMonth": "6",
+    "dobYear": "1995",
+    "height": "180",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "staffDescription": "是非指名して",
+    "folderName": "tori",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/tori/index.html"
+  },
+  {
+    "staffName": "シマ☆ルカ Shimaruka",
+    "dobDay": "14",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "171",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "staffDescription": "初回指名から何から何までやってまーす。そしてLINEまってまーす。",
+    "folderName": "ruka",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/ruka/index.html"
+  },
+  {
+    "staffName": "望月 夜 Yoru Mochizuki",
+    "dobDay": "11",
+    "dobMonth": "8",
+    "dobYear": "1995",
+    "height": "178",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "folderName": "yoru",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/yoru/index.html"
+  },
+  {
+    "staffName": "天翔 Kakeru",
+    "dobDay": "18",
+    "dobMonth": "1",
+    "dobYear": "1995",
+    "height": "171",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "staffDescription": "お酒沢山飲みたい、甘えたい子初回指名まってます。",
+    "folderName": "kakeru",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/kakeru/index.html"
+  },
+  {
+    "staffName": "北斗 Hokuto",
+    "dobDay": "27",
+    "dobMonth": "5",
+    "dobYear": "1995",
+    "height": "178",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "店舗運営スタッフ",
+    "socialLinks": {
+      "LINE": "ThmYwIAOTS",
+      "X": "twitter.com/alpha_hokuto",
+      "Instagram": "www.instagram.com/alpha_hokuto/"
+    },
+    "staffDescription": "初回指名お待ちしてます",
+    "folderName": "hokuto",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/hokuto/index.html"
+  },
+  {
+    "staffName": "一 龍 Ryu Hajime",
+    "dobDay": "16",
+    "dobMonth": "3",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "店舗運営スタッフ兼プレイヤー",
+    "socialLinks": {
+      "LINE": "ryuichi1449",
+      "X": "twitter.com/alpha_hajimeryu",
+      "Instagram": "instagram.com/ryu_hajime"
+    },
+    "staffDescription": "初回指名まってます",
+    "folderName": "ryu",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/ryu/index.html"
+  },
+  {
+    "staffName": "園崎彩人 Ayato Sonosaki",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "店舗運営スタッフ/AOGROUPナビゲーター",
+    "socialLinks": {
+      "LINE": "seiya_168",
+      "X": "twitter.com/harahettano_",
+      "Instagram": "www.instagram.com/ayatoman_/"
+    },
+    "folderName": "ayato",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/ayato/index.html"
+  },
+  {
+    "staffName": "夜空星凪 Sena Yozora",
+    "dobDay": "4",
+    "dobMonth": "3",
+    "dobYear": "1996",
+    "height": "?",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "ディレクター／AOGROUPディレクター",
+    "socialLinks": {
+      "LINE": "chiochio34",
+      "X": "twitter.com/yozorasenaalpha",
+      "Instagram": "www.instagram.com/senachoro/"
+    },
+    "staffDescription": "大金稼ぎたい子募集中!!",
+    "folderName": "sena",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/sena/index.html"
+  },
+  {
+    "staffName": "芹沢 心 Shin Serizawa",
+    "dobDay": "6",
+    "dobMonth": "1",
+    "dobYear": "1995",
+    "height": "175",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "position": "Producer",
+    "socialLinks": {
+      "LINE": "s-shin16",
+      "X": "twitter.com/serishin16",
+      "Instagram": "www.instagram.com/serishin16"
+    },
+    "staffDescription": "大金使ってくれる子募集中!!",
+    "folderName": "shin",
+    "hostUrl": "https://www.host2.jp/shop/alpha1/shin/index.html"
+  }
+]

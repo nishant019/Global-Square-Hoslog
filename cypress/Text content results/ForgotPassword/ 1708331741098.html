@@ -1,0 +1,93 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Test Results</title>
+            <style>
+                table {
+                    width: 100%;
+                    border-collapse: collapse;
+                }
+                th, td {
+                    padding: 8px;
+                    border-bottom: 1px solid #ddd;
+                    text-align: left;
+                }
+                th {
+                    background-color: #f2f2f2;
+                }
+                tr.failed {
+                    background-color: #FA8072;
+                }
+                .passed {
+                    color: green;
+                }
+                .failed {
+                    color: white;
+                }
+            </style>
+        </head>
+        <body>
+
+        <h2>Test Results</h2>
+        <h3>ForgotPassword Page</h3>
+        <table id="results-table">
+            <thead>
+                <tr>
+                    <th>Value</th>
+                    <th>Element</th>
+                    <th>Field</th>
+                    <th>Type</th>
+                    <th>Result</th>
+                </tr>
+            </thead>
+            <tbody>
+                
+        <tr class="passed">
+            <td class="passed">パスワードを忘れの方</td>
+            <td class="passed">.header</td>
+            <td class="passed">Page title</td>
+            <td class="passed">innerText</td>
+            <td class="passed">passed</td>
+        </tr>
+    
+        <tr class="passed">
+            <td class="passed">パスワードをリセットするには電話番号を入力してください</td>
+            <td class="passed">.suggestionText</td>
+            <td class="passed">Sub title</td>
+            <td class="passed">innerText</td>
+            <td class="passed">passed</td>
+        </tr>
+    
+        <tr class="passed">
+            <td class="passed">携帯電話番号</td>
+            <td class="passed">.contactNumber</td>
+            <td class="passed">Mobile number field</td>
+            <td class="passed">placeholder</td>
+            <td class="passed">passed</td>
+        </tr>
+    
+        <tr class="passed">
+            <td class="passed">SMSの受信拒否設定がされてないことを確認の上、以下のボタンを押してください</td>
+            <td class="passed">.text-\[\#18181B\]</td>
+            <td class="passed">OTP Suppoting Text</td>
+            <td class="passed">innerText</td>
+            <td class="passed">passed</td>
+        </tr>
+    
+        <tr class="passed">
+            <td class="passed">認証コードを受け取る</td>
+            <td class="passed">#btnCl</td>
+            <td class="passed">Submit button</td>
+            <td class="passed">innerText</td>
+            <td class="passed">passed</td>
+        </tr>
+    
+            </tbody>
+        </table>
+
+        </body>
+        </html>
+    

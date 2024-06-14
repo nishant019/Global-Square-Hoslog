@@ -1,0 +1,157 @@
+[
+  {
+    "staffNameEng": "日向ヒナタ",
+    "staffNameKana": "Hinata",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "position": "IMPERIAL PLAYER",
+    "socialLinks": {
+      "LINE": "me_gmin",
+      "X": "twitter.com/@hinata_no9",
+      "Instagram": "www.instagram.com/hinatatakun/"
+    }
+  },
+  {
+    "staffNameEng": "煌月",
+    "staffNameKana": "渉",
+    "dobDay": "20",
+    "dobMonth": "1",
+    "dobYear": "1995",
+    "height": "170",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "代表取締役",
+    "socialLinks": {
+      "LINE": "mhwr0120",
+      "X": "twitter.com/Akzkwtr",
+      "Instagram": "www.instagram.com/_watttr/",
+      "TikTok": "www.tiktok.com/@towataru1"
+    }
+  },
+  {
+    "staffNameEng": "あんり",
+    "staffNameKana": "Anri",
+    "dobDay": "15",
+    "dobMonth": "4",
+    "dobYear": "1995",
+    "height": "171",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "支配人",
+    "socialLinks": {
+      "LINE": "anri_q_q",
+      "X": "twitter.com/anri_q_q",
+      "Instagram": "www.instagram.com/anri_q_q/",
+      "TikTok": "www.tiktok.com/@anri_q_q"
+    }
+  },
+  {
+    "staffNameEng": "伊吹永遠",
+    "staffNameKana": "Towa",
+    "dobDay": "13",
+    "dobMonth": "11",
+    "dobYear": "2000",
+    "height": "255",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {
+      "LINE": "eve.babu",
+      "X": "twitter.com/Eve_babu",
+      "Instagram": "www.instagram.com/eve.babu/",
+      "TikTok": "www.tiktok.com/@towataru1"
+    },
+    "staffDescription": "おさけすき"
+  },
+  {
+    "staffNameEng": "一色いろは",
+    "staffNameKana": "Iroha",
+    "dobDay": "15",
+    "dobMonth": "10",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {
+      "Instagram": "www.instagram.com/irohaha_168/"
+    },
+    "staffDescription": "インスタからメッセージくださ。"
+  },
+  {
+    "staffNameEng": "アヤメ",
+    "staffNameKana": "Ayame",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "主任",
+    "socialLinks": {
+      "X": "twitter.com/ayaaya_men",
+      "Instagram": "www.instagram.com/hinag_gme",
+      "TikTok": "www.tiktok.com/@g.hiname"
+    },
+    "staffDescription": "見つけてくれてありがとう！"
+  },
+  {
+    "staffNameEng": "アッシュ",
+    "staffNameKana": "Asshu",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "xxma1217xx",
+      "X": "twitter.com/@Ash_Lynx_no9",
+      "Instagram": "www.instagram.com/ash_lynx_no9/",
+      "TikTok": "www.tiktok.com/@ash_no9"
+    }
+  },
+  {
+    "staffNameEng": "イルマ",
+    "staffNameKana": "iruma",
+    "dobDay": "18",
+    "dobMonth": "2",
+    "dobYear": "2000",
+    "height": "176",
+    "bloodGroup": "A+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "天使",
+    "staffNameKana": "翼",
+    "dobDay": "23",
+    "dobMonth": "1",
+    "dobYear": "1995",
+    "height": "181",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {
+      "LINE": "psycho_tu"
+    },
+    "staffDescription": "誰かの生きる希望になる"
+  },
+  {
+    "staffNameEng": "ビビ",
+    "staffNameKana": "Vivi",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "Instagram": "www.instagram.com/vivivivio_1217",
+      "TikTok": "www.tiktok.com/@vivioovivi_17"
+    }
+  }
+]

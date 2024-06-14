@@ -1,0 +1,147 @@
+[
+  {
+    "staffNameEng": "黒白メイ",
+    "staffNameKana": "Mei",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "支配人"
+  },
+  {
+    "staffNameEng": "神木悠人",
+    "staffNameKana": "Yuto",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "支配人",
+    "socialLinks": {
+      "X": "twitter.com/@yuuto_spl",
+      "Instagram": "www.instagram.com/yuuto_spl"
+    }
+  },
+  {
+    "staffNameEng": "蒼",
+    "staffNameKana": "龍弥",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "183",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "主任",
+    "socialLinks": {
+      "X": "twitter.com/ryuyaaoi?s=21&t=Y6awfKptbAdNjaEIGORB8A",
+      "Instagram": "instagram.com/ryuya.aoi?igshid=YmMyMTA2M2Y=",
+      "TikTok": "www.tiktok.com/@ryuya_aoi"
+    }
+  },
+  {
+    "staffNameEng": "一ノ瀬エマ",
+    "staffNameKana": "Ema",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "主任"
+  },
+  {
+    "staffNameEng": "つんつん",
+    "staffNameKana": "Tsuntsun",
+    "dobDay": "25",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {
+      "X": "twitter.com/@tsunn_tsunn_spl",
+      "Instagram": "www.instagram.com/tsunn_tsunn_25",
+      "TikTok": "www.tiktok.com/@tsunn_tsunn"
+    }
+  },
+  {
+    "staffNameEng": "戸田かなで",
+    "staffNameKana": "Kanade",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "皇",
+    "staffNameKana": "陽翔",
+    "dobDay": "31",
+    "dobMonth": "12",
+    "dobYear": "1999",
+    "height": "2",
+    "bloodGroup": "AB+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {
+      "LINE": "joe111231",
+      "X": "twitter.com/Haruto_SPL1231",
+      "Instagram": "www.instagram.com/harutoace.1231"
+    }
+  },
+  {
+    "staffNameEng": "もっち",
+    "staffNameKana": "Motchi",
+    "dobDay": "23",
+    "dobMonth": "2",
+    "dobYear": "1994",
+    "height": "900",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "Adviser",
+    "socialLinks": {
+      "LINE": "mochimochi8753",
+      "X": "twitter.com/@mochimochi4723",
+      "Instagram": "www.instagram.com/mocchimocchi8753",
+      "TikTok": "www.tiktok.com/@mochi8753"
+    },
+    "staffDescription": "初めまして！見てくださりありがとうございます。..."
+  },
+  {
+    "staffNameEng": "結城",
+    "staffNameKana": "理",
+    "dobDay": "14",
+    "dobMonth": "8",
+    "dobYear": "1995",
+    "height": "155",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "saitosun0802",
+      "X": "twitter.com/Makoto_Yuuki23",
+      "Instagram": "www.instagram.com/makoto_yuuki.spl/"
+    }
+  },
+  {
+    "staffNameEng": "愛咲抱擁",
+    "staffNameKana": "Hoyo",
+    "dobDay": "31",
+    "dobMonth": "5",
+    "dobYear": "1995",
+    "height": "170",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "mail": "gen2003.0531@iCloud.com",
+      "LINE": "hero.0531",
+      "X": "twitter.com/HOYO_GENTLY",
+      "Instagram": "www.instagram.com/HOYO_GENTLY/"
+    },
+    "staffDescription": "わんわん"
+  }
+]

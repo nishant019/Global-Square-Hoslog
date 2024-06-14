@@ -1,0 +1,143 @@
+[
+  {
+    "staffNameEng": "美月",
+    "staffNameKana": "創",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "164",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "副主任",
+    "socialLinks": {}
+  },
+  {
+    "staffNameEng": "共に歩夢",
+    "staffNameKana": "Ayumu",
+    "dobDay": "3",
+    "dobMonth": "11",
+    "dobYear": "1995",
+    "height": "164",
+    "bloodGroup": "AB+",
+    "consti": "さそり座",
+    "position": "副主任",
+    "socialLinks": {
+      "X": "mobile.twitter.com/bijofu_ayumu",
+      "Instagram": "instagram.com/tomoni_ayumu"
+    }
+  },
+  {
+    "staffNameEng": "MATE",
+    "staffNameKana": "Mate",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "164",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "CP/チーム RALLY",
+    "socialLinks": {}
+  },
+  {
+    "staffNameEng": "眞莉",
+    "staffNameKana": "Shinri",
+    "dobDay": "17",
+    "dobMonth": "5",
+    "dobYear": "1987",
+    "height": "170",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "副主任",
+    "socialLinks": {
+      "TEL": "080-4395-5505",
+      "mail": "shin-55555@softbank.ne.jp",
+      "LINE": "shinshin55"
+    }
+  },
+  {
+    "staffNameEng": "未来",
+    "staffNameKana": "Mirai",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "164",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "チーム RALLY",
+    "socialLinks": {}
+  },
+  {
+    "staffNameEng": "翔流",
+    "staffNameKana": "Kakeru",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "164",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {}
+  },
+  {
+    "staffNameEng": "鬼",
+    "staffNameKana": "柊",
+    "dobDay": "26",
+    "dobMonth": "2",
+    "dobYear": "2001",
+    "height": "174",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "CP/チーム RALLY",
+    "socialLinks": {
+      "LINE": "soichiro7070",
+      "X": "twitter.com/s_yu_02_26",
+      "Instagram": "www.instagram.com/s_yu_02_26",
+      "TikTok": "www.tiktok.com/@syu02_26"
+    },
+    "staffDescription": "自分の気持ちより相手の気持ちを大切にして行動します！\nお世話するのが好きです！"
+  },
+  {
+    "staffNameEng": "志耶",
+    "staffNameKana": "Yukiya",
+    "dobDay": "30",
+    "dobMonth": "10",
+    "dobYear": "1997",
+    "height": "172",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "チーム RALLY",
+    "socialLinks": {
+      "LINE": "0024yukiya",
+      "X": "twitter.com/1030yukiya",
+      "Instagram": "www.instagram.com/yukiya_1030/",
+      "TikTok": "www.tiktok.com/@yukiya_0024"
+    },
+    "staffDescription": "みんなを幸せにしたいです！"
+  },
+  {
+    "staffNameEng": "相沢乃甫",
+    "staffNameKana": "Daisuke",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "164",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "副社長兼代表/チーム RALLY",
+    "socialLinks": {
+      "LINE": "aizawa0731",
+      "X": "twitter.com/daisuke620731",
+      "Instagram": "www.instagram.com/daaaisk01/"
+    }
+  },
+  {
+    "staffNameEng": "喜努愛",
+    "staffNameKana": "楽",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "164",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {}
+  }
+]

@@ -1,0 +1,133 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Test Results</title>
+            <style>
+                table {
+                    width: 100%;
+                    border-collapse: collapse;
+                }
+                th, td {
+                    padding: 8px;
+                    border-bottom: 1px solid #ddd;
+                    text-align: left;
+                }
+                th {
+                    background-color: #f2f2f2;
+                }
+                tr.failed {
+                    background-color: #FA8072;
+                }
+                .passed {
+                    color: green;
+                }
+                .failed {
+                    color: white;
+                }
+            </style>
+        </head>
+        <body>
+
+        <h2>Test Results</h2>
+        <h3>Registration Page</h3>
+        <table id="results-table">
+            <thead>
+                <tr>
+                    <th>Value</th>
+                    <th>Element</th>
+                    <th>Field</th>
+                    <th>Type</th>
+                    <th>Result</th>
+                </tr>
+            </thead>
+            <tbody>
+                
+        <tr class="passed">
+            <td class="passed">新しくホスログを始める</td>
+            <td class="passed">.register</td>
+            <td class="passed">Page title</td>
+            <td class="passed">innerText</td>
+            <td class="passed">passed</td>
+        </tr>
+    
+        <tr class="passed">
+            <td class="passed">ミクチャン</td>
+            <td class="passed">#NickName</td>
+            <td class="passed">Nickname</td>
+            <td class="passed">placeholder</td>
+            <td class="passed">passed</td>
+        </tr>
+    
+        <tr class="passed">
+            <td class="passed">携帯電話番号</td>
+            <td class="passed">#MobileNumber</td>
+            <td class="passed">Mobile number field</td>
+            <td class="passed">placeholder</td>
+            <td class="passed">passed</td>
+        </tr>
+    
+        <tr class="passed">
+            <td class="passed">利用規約 とプライバシーポリシー に同意したものとみなします</td>
+            <td class="passed">.policy</td>
+            <td class="passed">Text</td>
+            <td class="passed">innerText</td>
+            <td class="passed">passed</td>
+        </tr>
+    
+        <tr class="passed">
+            <td class="passed">SMSの受信拒否設定がされてないことを確認の上、以下のボタンを押してください</td>
+            <td class="passed">.smsText</td>
+            <td class="passed">Text</td>
+            <td class="passed">innerText</td>
+            <td class="passed">passed</td>
+        </tr>
+    
+        <tr class="passed">
+            <td class="passed">認証コードを受け取る</td>
+            <td class="passed">#FormSubmit</td>
+            <td class="passed">Text</td>
+            <td class="passed">innerText</td>
+            <td class="passed">passed</td>
+        </tr>
+    
+        <tr class="passed">
+            <td class="passed">すでにアカウントをお持ちの方?</td>
+            <td class="passed">.otherAccotunt</td>
+            <td class="passed">Text</td>
+            <td class="passed">innerText</td>
+            <td class="passed">passed</td>
+        </tr>
+    
+        <tr class="passed">
+            <td class="passed">ログイン</td>
+            <td class="passed">.loginButton</td>
+            <td class="passed">Mobile number field</td>
+            <td class="passed">innerText</td>
+            <td class="passed">passed</td>
+        </tr>
+    
+        <tr class="passed">
+            <td class="passed">アフィリエイター登録</td>
+            <td class="passed">.affiliation > :nth-child(1)</td>
+            <td class="passed">Text</td>
+            <td class="passed">innerText</td>
+            <td class="passed">passed</td>
+        </tr>
+    
+        <tr class="passed">
+            <td class="passed">店舗オーナー登録</td>
+            <td class="passed">.affiliation > :nth-child(3)</td>
+            <td class="passed">Text</td>
+            <td class="passed">innerText</td>
+            <td class="passed">passed</td>
+        </tr>
+    
+            </tbody>
+        </table>
+
+        </body>
+        </html>
+    

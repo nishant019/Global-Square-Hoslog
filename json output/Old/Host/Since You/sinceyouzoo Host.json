@@ -1,0 +1,133 @@
+[
+  {
+    "staffNameEng": "そらまる",
+    "staffNameKana": "Soramaru",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "代表",
+    "socialLinks": {
+      "TEL": "080-2978-4785",
+      "LINE": "06050123"
+    },
+    "staffDescription": "メッセージ待ってます"
+  },
+  {
+    "staffNameEng": "春夏冬",
+    "staffNameKana": "将希",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "主任",
+    "socialLinks": {
+      "TEL": "080-6480-0643"
+    },
+    "staffDescription": "ピカチュウ探してます。\nライバルのポケモンに1個しかないマスターボール使ったら捕えられなくて泣きました。"
+  },
+  {
+    "staffNameEng": "AYUMU",
+    "staffNameKana": "Ayumu",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "幹部補佐"
+  },
+  {
+    "staffNameEng": "ミナミ",
+    "staffNameKana": "Minami",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "幹部補佐"
+  },
+  {
+    "staffNameEng": "ich",
+    "staffNameKana": "Ich",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {
+      "LINE": "likeumauma"
+    }
+  },
+  {
+    "staffNameEng": "夏目",
+    "staffNameKana": "暁",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "主任",
+    "socialLinks": {
+      "TEL": "090-4516-0324",
+      "mail": "kazu03_24_ki@docomo.ne.jp",
+      "LINE": "conan.03.24"
+    },
+    "staffDescription": "楽しくお酒を一緒に飲める人とめぐりあいたいです。\nSINCEYOU...(はじまりはあなたから…)"
+  },
+  {
+    "staffNameEng": "てんまる",
+    "staffNameKana": "Tenmaru",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "幹部補佐"
+  },
+  {
+    "staffNameEng": "望夜",
+    "staffNameKana": "Noeru",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "シャキッとせいや",
+    "staffNameKana": "Shakittoseiya",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "麗",
+    "staffNameKana": "Rei",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "サブアドバイザー",
+    "socialLinks": {
+      "TEL": "090-5169-1871",
+      "LINE": "ren-k-0328"
+    },
+    "staffDescription": "死ぬ気で頑張ります。"
+  }
+]

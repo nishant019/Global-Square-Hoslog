@@ -1,0 +1,132 @@
+[
+  {
+    "staffNameEng": "天野まさき",
+    "staffNameKana": "Masaki",
+    "dobDay": "13",
+    "dobMonth": "11",
+    "dobYear": "2000",
+    "height": "176",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "FP",
+    "socialLinks": {
+      "X": "twitter.com/CIEL_masaki",
+      "Instagram": "www.instagram.com/Ciel_masaki/"
+    }
+  },
+  {
+    "staffNameEng": "L",
+    "staffNameKana": "L",
+    "dobDay": "11",
+    "dobMonth": "12",
+    "dobYear": "2001",
+    "height": "184",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "リーダー",
+    "socialLinks": {
+      "X": "twitter.com/eru_eru_ciel",
+      "Instagram": "www.instagram.com/eru.eru.ciel/"
+    }
+  },
+  {
+    "staffNameEng": "ゆきと",
+    "staffNameKana": "Yukito",
+    "dobDay": "11",
+    "dobMonth": "8",
+    "dobYear": "1994",
+    "height": "180",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "幹部補佐"
+  },
+  {
+    "staffNameEng": "涼風",
+    "staffNameKana": "Suzuka",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "副主任"
+  },
+  {
+    "staffNameEng": "成海(なるみん)",
+    "staffNameKana": "Narumi",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/narumin_ciel",
+      "Instagram": "www.instagram.com/narumin.ciel"
+    },
+    "staffDescription": "未来の一億円プレイヤーです"
+  },
+  {
+    "staffNameEng": "ひかる軍曹",
+    "staffNameKana": "Hikaru",
+    "dobDay": "26",
+    "dobMonth": "12",
+    "dobYear": "1995",
+    "height": "175",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "リーダー"
+  },
+  {
+    "staffNameEng": "水神ゆら",
+    "staffNameKana": "Yura",
+    "dobDay": "26",
+    "dobMonth": "4",
+    "dobYear": "1995",
+    "height": "170",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "リーダー",
+    "socialLinks": {
+      "X": "twitter.com/yura_ciel",
+      "Instagram": "www.instagram.com/yura_ciel/",
+      "TikTok": "www.tiktok.com/@mikami_yura"
+    },
+    "staffDescription": "輪廻転生しました！よろしくお願いします!!"
+  },
+  {
+    "staffNameEng": "YOSHIKI",
+    "staffNameKana": "Yoshiki",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "綾人",
+    "staffNameKana": "Ayato",
+    "dobDay": "25",
+    "dobMonth": "1",
+    "dobYear": "1995",
+    "height": "170",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/ayatoooo0125",
+      "Instagram": "www.instagram.com/ayatooo0125/"
+    },
+    "staffDescription": "最強の2部!!"
+  },
+  {
+    "staffNameEng": "透哉",
+    "staffNameKana": "toya",
+    "dobDay": "4",
+    "dobMonth": "10",
+    "dobYear": "1994",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座"
+  }
+]

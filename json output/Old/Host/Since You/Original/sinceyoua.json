@@ -1,0 +1,120 @@
+[
+  {
+    "staffName": "聡真 Soma",
+    "dobDay": "3",
+    "dobMonth": "4",
+    "dobYear": "1995",
+    "height": "183",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "position": "支配人",
+    "folderName": "soma"
+  },
+  {
+    "staffName": "はじめ Hajime",
+    "dobDay": "30",
+    "dobMonth": "1",
+    "dobYear": "1995",
+    "height": "181",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "副主任",
+    "socialLinks": "\"LINE：\\nkazubsk78\\nInstagram：\\nwww.instagram.com/wZww.hajimedayo78/\"",
+    "folderName": "hajime"
+  },
+  {
+    "staffName": "渋谷 凰 Ko Shibuya",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "代表",
+    "socialLinks": "\"Instagram：\\nwww.instagram.com/shibuya_kou/\"",
+    "staffDescription": "俺で間違いない！",
+    "folderName": "ko"
+  },
+  {
+    "staffName": "レイヤ Reiya",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "170",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "副主任",
+    "socialLinks": "\"X：\\ntwitter.com/hosuto090\"",
+    "folderName": "reiya"
+  },
+  {
+    "staffName": "ユアン Yuan",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "170",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": "\"X：\\ntwitter.com/yuan_sinceyou\\nInstagram：\\nwww.instagram.com/sinceyou_yuan/\"",
+    "folderName": "yuan"
+  },
+  {
+    "staffName": "美咲 輝 Hikaru Misaki",
+    "dobDay": "8",
+    "dobMonth": "11",
+    "dobYear": "1995",
+    "height": "172",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "取締役",
+    "socialLinks": "\"X：\\ntwitter.com/a_b_c_1299\\nInstagram：\\nwww.instagram.com/hikunda\"",
+    "folderName": "hikaru"
+  },
+  {
+    "staffName": "刹那 Setsuna",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "178",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "支配人",
+    "socialLinks": "\"X：\\ntwitter.com/totosan3215\"",
+    "folderName": "setsuna2"
+  },
+  {
+    "staffName": "鳳 信 Shin Otori",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "CP",
+    "socialLinks": "\"X：\\ntwitter.com/sinceyoua_shin\\nInstagram：\\nwww.instagram.com/sinceyoua_shinotori/\\nTikTok：\\nwww.tiktok.com/@sinceyoua_shinotori\"",
+    "folderName": "shin01"
+  },
+  {
+    "staffName": "道端ミチル Michiru Michibata",
+    "dobDay": "14",
+    "dobMonth": "8",
+    "dobYear": "1998",
+    "height": "178",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "CP",
+    "folderName": "michiru"
+  },
+  {
+    "staffName": "SOL Sol",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "folderName": "sol"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "staffNameEng": "Jin",
+    "staffNameKana": "Jin",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "代表取締役"
+  },
+  {
+    "staffNameEng": "ジュン",
+    "staffNameKana": "Jun",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "代表取締役"
+  },
+  {
+    "staffNameEng": "二ノ宮",
+    "staffNameKana": "氷雅",
+    "dobDay": "31",
+    "dobMonth": "10",
+    "dobYear": "1991",
+    "height": "181",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "position": "Executive Player",
+    "socialLinks": {
+      "TEL": "08096968323",
+      "LINE": "08060428687",
+      "X": "twitter.com/hyoga19911031",
+      "Instagram": "www.instagram.com/hyoga.1031"
+    }
+  },
+  {
+    "staffNameEng": "柊",
+    "staffNameKana": "黒",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "Super Player",
+    "socialLinks": {
+      "LINE": "abc6345"
+    }
+  },
+  {
+    "staffNameEng": "山田ギャル咲",
+    "staffNameKana": "Yamada",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "幹部補佐"
+  },
+  {
+    "staffNameEng": "飴宮りんご",
+    "staffNameKana": "Ringo",
+    "dobDay": "11",
+    "dobMonth": "8",
+    "dobYear": "1995",
+    "height": "173",
+    "bloodGroup": "AB+",
+    "consti": "さそり座",
+    "position": "プレイングマネージャー",
+    "socialLinks": {
+      "X": "twitter.com/chiyopom"
+    },
+    "staffDescription": "ドラクエやりたい。"
+  },
+  {
+    "staffNameEng": "下東由朋",
+    "staffNameKana": "Yoshitomo",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "オーナー"
+  }
+]

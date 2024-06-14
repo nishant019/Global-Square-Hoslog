@@ -1,0 +1,166 @@
+[
+  {
+    "staffNameEng": "涼風",
+    "staffNameKana": "空",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "副主任",
+    "socialLinks": {
+      "LINE": "gotoshin1031",
+      "X": "mobile.twitter.com/soraziroo_0",
+      "Instagram": "www.instagram.com/soraziro__0",
+      "TikTok": "www.tiktok.com/@soraziroo0"
+    }
+  },
+  {
+    "staffNameEng": "司",
+    "staffNameKana": "Tsukasa",
+    "dobDay": "17",
+    "dobMonth": "12",
+    "dobYear": "1995",
+    "height": "178",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "支配人",
+    "socialLinks": {
+      "LINE": "masato20031217",
+      "X": "twitter.com/pyonpyon__nyopi",
+      "Instagram": "www.instagram.com/nyoo_00n/",
+      "TikTok": "www.tiktok.com/@tuksya__00n"
+    }
+  },
+  {
+    "staffNameEng": "ゆう",
+    "staffNameKana": "Yu",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "imperial player",
+    "socialLinks": {
+      "LINE": "ogawa0628",
+      "X": "mobile.twitter.com/yu_nodejs",
+      "Instagram": "www.instagram.com/yu_nodejs",
+      "TikTok": "www.tiktok.com/@yu_nodejs"
+    }
+  },
+  {
+    "staffNameEng": "KID",
+    "staffNameKana": "Kid",
+    "dobDay": "11",
+    "dobMonth": "2",
+    "dobYear": "1996",
+    "height": "175",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "代表",
+    "socialLinks": {
+      "LINE": "yussan0211",
+      "X": "twitter.com/@KID_SENSETOKYO",
+      "Instagram": "www.instagram.com/sense_kid/",
+      "TikTok": "www.tiktok.com/@sense_kid"
+    }
+  },
+  {
+    "staffNameEng": "加賀見",
+    "staffNameKana": "凪美",
+    "dobDay": "29",
+    "dobMonth": "2",
+    "dobYear": "2000",
+    "height": "186",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {
+      "Instagram": "www.instagram.com/nami_taso_/",
+      "TikTok": "www.tiktok.com/@nami_tasox"
+    },
+    "staffDescription": "めちゃくちゃ頑張るし全力で楽しませるから応援してね！"
+  },
+  {
+    "staffNameEng": "皐月",
+    "staffNameKana": "Satsuki",
+    "dobDay": "13",
+    "dobMonth": "6",
+    "dobYear": "1995",
+    "height": "177",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {
+      "LINE": "tmooya",
+      "X": "mobile.twitter.com/SENSESATSUKI",
+      "Instagram": "www.instagram.com/sense_satsuki95/",
+      "TikTok": "www.tiktok.com/@sensesatsuki95"
+    },
+    "staffDescription": "見に来てください後悔させません"
+  },
+  {
+    "staffNameEng": "レイ",
+    "staffNameKana": "Rei",
+    "dobDay": "25",
+    "dobMonth": "7",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "shun.xx",
+      "X": "mobile.twitter.com/sensetokyo_rei",
+      "Instagram": "www.instagram.com/rei_sensetokyo",
+      "TikTok": "www.tiktok.com/@rei_sensetokyo"
+    }
+  },
+  {
+    "staffNameEng": "紫陽",
+    "staffNameKana": "Sho",
+    "dobDay": "11",
+    "dobMonth": "8",
+    "dobYear": "2003",
+    "height": "170",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "mail": "naito20030811@icloud.com",
+      "LINE": "naito001813"
+    }
+  },
+  {
+    "staffNameEng": "慶汰郎",
+    "staffNameKana": "Ketaro",
+    "dobDay": "30",
+    "dobMonth": "10",
+    "dobYear": "2022",
+    "height": "172",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "ketaro0000",
+      "X": "twitter.com/sense_ketaro",
+      "Instagram": "www.instagram.com/sense_ketaro",
+      "TikTok": "www.tiktok.com/@k__taroo"
+    }
+  },
+  {
+    "staffNameEng": "臣",
+    "staffNameKana": "武尊",
+    "dobDay": "4",
+    "dobMonth": "5",
+    "dobYear": "2000",
+    "height": "178",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "ankersound",
+      "X": "twitter.com/@takeru_omi",
+      "Instagram": "www.instagram.com/omi_sense",
+      "TikTok": "www.tiktok.com/@takeru_omi"
+    }
+  }
+]

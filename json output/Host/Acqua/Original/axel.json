@@ -1,0 +1,552 @@
+[
+  {
+    "staffName": "水樹礼斗 Reito Mizuki",
+    "dobDay": "7",
+    "dobMonth": "6",
+    "dobYear": "1998",
+    "height": "175",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "代表",
+    "socialLinks": {
+      "X": "twitter.com/reitoaxel",
+      "Instagram": "www.instagram.com/reitoaxel/"
+    },
+    "staffDescription": "とりあえずLINE下さい。",
+    "folderName": "reito",
+    "hostUrl": "https://www.host2.jp/shop/axel/reito/index.html"
+  },
+  {
+    "staffName": "V V",
+    "dobDay": "26",
+    "dobMonth": "7",
+    "dobYear": "1995",
+    "height": "176",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "position": "支配人",
+    "socialLinks": {
+      "Instagram": "www.instagram.com/v_axel_acqua"
+    },
+    "folderName": "v",
+    "hostUrl": "https://www.host2.jp/shop/axel/v/index.html"
+  },
+  {
+    "staffName": "蓮 Ren",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "部長",
+    "socialLinks": {},
+    "folderName": "ren",
+    "hostUrl": "https://www.host2.jp/shop/axel/ren/index.html"
+  },
+  {
+    "staffName": "ましろ Mashiro",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {},
+    "folderName": "mashiro",
+    "hostUrl": "https://www.host2.jp/shop/axel/mashiro/index.html"
+  },
+  {
+    "staffName": "るい Rui",
+    "dobDay": "11",
+    "dobMonth": "3",
+    "dobYear": "1995",
+    "height": "300",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "ruiiii_0311",
+      "X": "twitter.com/ruirui_axel",
+      "Instagram": "www.instagram.com/ruiiii_axel"
+    },
+    "folderName": "rui02",
+    "hostUrl": "https://www.host2.jp/shop/axel/rui02/index.html"
+  },
+  {
+    "staffName": "白咲瑠姫 Ruki Shirosaki",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {
+      "X": "twitter.com/xoxo_rukimero",
+      "Instagram": "www.instagram.com/_melonsoda_ruki/"
+    },
+    "folderName": "ruki",
+    "hostUrl": "https://www.host2.jp/shop/axel/ruki/index.html"
+  },
+  {
+    "staffName": "源 Gen",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "folderName": "gen",
+    "hostUrl": "https://www.host2.jp/shop/axel/gen/index.html"
+  },
+  {
+    "staffName": "一ノ瀬玲鳳 Reo Ichinose",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "支配人",
+    "socialLinks": {},
+    "folderName": "reo02",
+    "hostUrl": "https://www.host2.jp/shop/axel/reo02/index.html"
+  },
+  {
+    "staffName": "柚木誠悟 Seigo Yuzuki",
+    "dobDay": "7",
+    "dobMonth": "2",
+    "dobYear": "1995",
+    "height": "178",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "アドバイザー",
+    "socialLinks": {},
+    "folderName": "seigo01",
+    "hostUrl": "https://www.host2.jp/shop/axel/seigo01/index.html"
+  },
+  {
+    "staffName": "遥 Haruka",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "folderName": "haruka",
+    "hostUrl": "https://www.host2.jp/shop/axel/haruka/index.html"
+  },
+  {
+    "staffName": "けい Kei",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "folderName": "kei02",
+    "hostUrl": "https://www.host2.jp/shop/axel/kei02/index.html"
+  },
+  {
+    "staffName": "奏多 Kanata",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "folderName": "kanata",
+    "hostUrl": "https://www.host2.jp/shop/axel/kanata/index.html"
+  },
+  {
+    "staffName": "フラン Furan",
+    "dobDay": "28",
+    "dobMonth": "12",
+    "dobYear": "1996",
+    "height": "210",
+    "bloodGroup": "AB+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "Instagram": "www.instagram.com/franq_____"
+    },
+    "staffDescription": "は〜いこんにちは〜",
+    "folderName": "furan",
+    "hostUrl": "https://www.host2.jp/shop/axel/furan/index.html"
+  },
+  {
+    "staffName": "朝陽 Asahi",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "folderName": "asahi01",
+    "hostUrl": "https://www.host2.jp/shop/axel/asahi01/index.html"
+  },
+  {
+    "staffName": "瑛人 Eito",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "相談役",
+    "socialLinks": {},
+    "folderName": "eito01",
+    "hostUrl": "https://www.host2.jp/shop/axel/eito01/index.html"
+  },
+  {
+    "staffName": "ぎんまる Ginmaru",
+    "dobDay": "11",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "173",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {
+      "X": "twitter.com/ginnmarudayo",
+      "Instagram": "www.instagram.com/ginmaru_chan"
+    },
+    "folderName": "ginmaru",
+    "hostUrl": "https://www.host2.jp/shop/axel/ginmaru/index.html"
+  },
+  {
+    "staffName": "ガイア Gaia",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "folderName": "gaia",
+    "hostUrl": "https://www.host2.jp/shop/axel/gaia/index.html"
+  },
+  {
+    "staffName": "しゅう Shu",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "folderName": "shu02",
+    "hostUrl": "https://www.host2.jp/shop/axel/shu02/index.html"
+  },
+  {
+    "staffName": "R R",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "folderName": "r",
+    "hostUrl": "https://www.host2.jp/shop/axel/r/index.html"
+  },
+  {
+    "staffName": "夢咲歩夢 Ayumu Yumesaki",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "folderName": "ayumu",
+    "hostUrl": "https://www.host2.jp/shop/axel/ayumu/index.html"
+  },
+  {
+    "staffName": "二条ジョー Jo Nijo",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "folderName": "jo",
+    "hostUrl": "https://www.host2.jp/shop/axel/jo/index.html"
+  },
+  {
+    "staffName": "そら Sora",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "folderName": "sora01",
+    "hostUrl": "https://www.host2.jp/shop/axel/sora01/index.html"
+  },
+  {
+    "staffName": "あおい Aoi",
+    "dobDay": "24",
+    "dobMonth": "11",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/@aoi_axel",
+      "Instagram": "www.instagram.com/axel_aoi"
+    },
+    "staffDescription": "顔出ししてないのでお店で顔みてくれるのを楽しみにしてます！",
+    "folderName": "aoi",
+    "hostUrl": "https://www.host2.jp/shop/axel/aoi/index.html"
+  },
+  {
+    "staffName": "ハク Haku",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "Executive Player",
+    "socialLinks": {},
+    "folderName": "haku",
+    "hostUrl": "https://www.host2.jp/shop/axel/haku/index.html"
+  },
+  {
+    "staffName": "春馬 Haruma",
+    "dobDay": "21",
+    "dobMonth": "3",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "AB+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/Axel_ol1",
+      "Instagram": "www.instagram.com/_18._xl"
+    },
+    "folderName": "haruma01",
+    "hostUrl": "https://www.host2.jp/shop/axel/haruma01/index.html"
+  },
+  {
+    "staffName": "結斗 Yuito",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "folderName": "yuito01",
+    "hostUrl": "https://www.host2.jp/shop/axel/yuito01/index.html"
+  },
+  {
+    "staffName": "セナ Sena",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "folderName": "sena",
+    "hostUrl": "https://www.host2.jp/shop/axel/sena/index.html"
+  },
+  {
+    "staffName": "蝶 Nabi",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "folderName": "nabi",
+    "hostUrl": "https://www.host2.jp/shop/axel/nabi/index.html"
+  },
+  {
+    "staffName": "エル L",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "folderName": "l",
+    "hostUrl": "https://www.host2.jp/shop/axel/l/index.html"
+  },
+  {
+    "staffName": "とあ Toa",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "folderName": "toa",
+    "hostUrl": "https://www.host2.jp/shop/axel/toa/index.html"
+  },
+  {
+    "staffName": "柚輝 Yuzuki",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {},
+    "folderName": "yuzuki",
+    "hostUrl": "https://www.host2.jp/shop/axel/yuzuki/index.html"
+  },
+  {
+    "staffName": "翔斗 Shoto",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "folderName": "shoto01",
+    "hostUrl": "https://www.host2.jp/shop/axel/shoto01/index.html"
+  },
+  {
+    "staffName": "桃瀬飛鳥 Asuka Momose",
+    "dobDay": "2",
+    "dobMonth": "5",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/momoseasuka0502",
+      "Instagram": "www.instagram.com/momoseasuka0502/"
+    },
+    "folderName": "asuka",
+    "hostUrl": "https://www.host2.jp/shop/axel/asuka/index.html"
+  },
+  {
+    "staffName": "けんたろう Kentaro",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "folderName": "kentaro",
+    "hostUrl": "https://www.host2.jp/shop/axel/kentaro/index.html"
+  },
+  {
+    "staffName": "北斗 Hokuto",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "folderName": "hokuto",
+    "hostUrl": "https://www.host2.jp/shop/axel/hokuto/index.html"
+  },
+  {
+    "staffName": "いおり Iori",
+    "dobDay": "14",
+    "dobMonth": "8",
+    "dobYear": "1993",
+    "height": "175",
+    "bloodGroup": "AB+",
+    "consti": "さそり座",
+    "position": "店長",
+    "socialLinks": {
+      "LINE": "weed0814"
+    },
+    "folderName": "iori",
+    "hostUrl": "https://www.host2.jp/shop/axel/iori/index.html"
+  },
+  {
+    "staffName": "臣衞門 Jinemon",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "店舗運営スタッフ",
+    "socialLinks": {
+      "Instagram": "www.instagram.com/jinjin_____jinjin/"
+    },
+    "folderName": "jinemon",
+    "hostUrl": "https://www.host2.jp/shop/axel/jinemon/index.html"
+  },
+  {
+    "staffName": "遊星 Yusei",
+    "dobDay": "18",
+    "dobMonth": "7",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "サブアドバイザー",
+    "socialLinks": {
+      "LINE": "09058178669t.n"
+    },
+    "folderName": "yusei",
+    "hostUrl": "https://www.host2.jp/shop/axel/yusei/index.html"
+  },
+  {
+    "staffName": "黒城 Kokujo",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "AXELGROUP本部長/SMG/ACQUA GROUP内勤本部",
+    "socialLinks": {},
+    "folderName": "kokujo",
+    "hostUrl": "https://www.host2.jp/shop/axel/kokujo/index.html"
+  },
+  {
+    "staffName": "九条 椿 Tsubaki kujo",
+    "dobDay": "14",
+    "dobMonth": "3",
+    "dobYear": "1995",
+    "height": "173",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "AXEL GROUP会長/ACQUA GROUP最高本部",
+    "socialLinks": {},
+    "staffDescription": "何でも融通きかせます!(笑)",
+    "folderName": "tsubaki",
+    "hostUrl": "https://www.host2.jp/shop/axel/tsubaki/index.html"
+  },
+  {
+    "staffName": "嶺明 Mineaki",
+    "dobDay": "18",
+    "dobMonth": "8",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "AXEL GROUP 人事部",
+    "socialLinks": {
+      "LINE": "seiryu-yuki",
+      "X": "twitter.com/mineaki_jinji",
+      "Instagram": "www.instagram.com/mineaki_jinji"
+    },
+    "staffDescription": "ACQUA GROUP 全体No.1の水樹礼斗から直接学べる！\n入店後すぐに初回接客もお任せするので、未経験の方にも平等にチャンスがあります。\n当店の体入では接客も体験可能なので、興味ある方、体入ご希望の方はお気軽にラインください！",
+    "folderName": "mineaki",
+    "hostUrl": "https://www.host2.jp/shop/axel/mineaki/index.html"
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "staffName": "黒崎 蓮 Ren Kurosaki",
+    "dobDay": "24",
+    "dobMonth": "7",
+    "dobYear": "1995",
+    "height": "183",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {
+      "LINE": "renren0724s",
+      "X": "twitter.com/renren0627sr"
+    },
+    "folderName": "kurosaki",
+    "hostUrl": "https://www.host2.jp/shop/miyabibyacqua/kurosaki/index.html"
+  },
+  {
+    "staffName": "いおんぴ Ionpi",
+    "dobDay": "14",
+    "dobMonth": "11",
+    "dobYear": "1996",
+    "height": "171",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "代表取締役",
+    "socialLinks": {
+      "LINE": "iiiii_on",
+      "X": "twitter.com/iiiii_on1",
+      "Instagram": "www.instagram.com/iiiii_on1/"
+    },
+    "folderName": "ionpi",
+    "hostUrl": "https://www.host2.jp/shop/miyabibyacqua/ionpi/index.html"
+  },
+  {
+    "staffName": "秀吉 Hideyoshi",
+    "dobDay": "16",
+    "dobMonth": "5",
+    "dobYear": "1995",
+    "height": "168",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "rui.tomokazu.japon",
+      "X": "twitter.com/NKN06893461",
+      "Instagram": "www.instagram.com/ROYAL.JAPAN.ROYAL"
+    },
+    "folderName": "hideyoshi",
+    "hostUrl": "https://www.host2.jp/shop/miyabibyacqua/hideyoshi/index.html"
+  },
+  {
+    "staffName": "柊希亜嵐 Aran Hiiragi",
+    "dobDay": "18",
+    "dobMonth": "12",
+    "dobYear": "2000",
+    "height": "169",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {
+      "X": "twitter.com/alan_miyabi",
+      "Instagram": "www.instagram.com/alan_miyabi/"
+    },
+    "staffDescription": "主任に昇格したいし、今月やばいです助けてください",
+    "folderName": "aran",
+    "hostUrl": "https://www.host2.jp/shop/miyabibyacqua/aran/index.html"
+  },
+  {
+    "staffName": "YUKIMURA幸村 Yukimura",
+    "dobDay": "3",
+    "dobMonth": "6",
+    "dobYear": "1613",
+    "height": "166",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "yukimuuuuu"
+    },
+    "staffDescription": "明るく楽しく、色々な話しもききたいです。姫のそばにいたいし、近くにいてほしいです。",
+    "folderName": "yukimura",
+    "hostUrl": "https://www.host2.jp/shop/miyabibyacqua/yukimura/index.html"
+  },
+  {
+    "staffName": "天音あまと Amato Amane",
+    "dobDay": "4",
+    "dobMonth": "10",
+    "dobYear": "1997",
+    "height": "164",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/amato_104",
+      "Instagram": "www.instagram.com/amato_893/"
+    },
+    "staffDescription": "少しでも会いに来てくれたら嬉しいです",
+    "folderName": "amato",
+    "hostUrl": "https://www.host2.jp/shop/miyabibyacqua/amato/index.html"
+  },
+  {
+    "staffName": "白乃メア Mea Shirono",
+    "dobDay": "24",
+    "dobMonth": "1",
+    "dobYear": "1999",
+    "height": "180",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {
+      "LINE": "yu3150yu",
+      "X": "twitter.com/@THCLSD420",
+      "Instagram": "www.instagram.com/yuyamuyamu"
+    },
+    "staffDescription": "妹募集 P.S.シャンパンおろす子はかわいく見えます。",
+    "folderName": "mea",
+    "hostUrl": "https://www.host2.jp/shop/miyabibyacqua/mea/index.html"
+  },
+  {
+    "staffName": "暁 天馬 Tenma Akatsuki",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "175",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "tugumi10.09",
+      "X": "twitter.com/ev5_5",
+      "Instagram": "www.instagram.com/wrswit.02/"
+    },
+    "folderName": "tenma",
+    "hostUrl": "https://www.host2.jp/shop/miyabibyacqua/tenma/index.html"
+  },
+  {
+    "staffName": "それいけ！！ぴよ Piyo Soreike",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "店舗運営スタッフ",
+    "socialLinks": {},
+    "folderName": "piyo",
+    "hostUrl": "https://www.host2.jp/shop/miyabibyacqua/piyo/index.html"
+  },
+  {
+    "staffName": "悟 Satoru",
+    "dobDay": "6",
+    "dobMonth": "10",
+    "dobYear": "2002",
+    "height": "178",
+    "bloodGroup": "AB+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "Instagram": "www.instagram.com/miyabi_satoru"
+    },
+    "folderName": "satoru",
+    "hostUrl": "https://www.host2.jp/shop/miyabibyacqua/satoru/index.html"
+  },
+  {
+    "staffName": "魈 Sho",
+    "dobDay": "21",
+    "dobMonth": "10",
+    "dobYear": "2003",
+    "height": "170",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/@mryx_x_",
+      "Instagram": "www.instagram.com/ren_1021x"
+    },
+    "folderName": "sho",
+    "hostUrl": "https://www.host2.jp/shop/miyabibyacqua/sho/index.html"
+  },
+  {
+    "staffName": "南 優月紀 Yuzuki Minami",
+    "dobDay": "1",
+    "dobMonth": "4",
+    "dobYear": "2003",
+    "height": "177",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/@miyabi_yuzuki",
+      "Instagram": "www.instagram.com/miyabi_yuzuki"
+    },
+    "staffDescription": "骨格アルコール飲みべ冬",
+    "folderName": "yuzuki",
+    "hostUrl": "https://www.host2.jp/shop/miyabibyacqua/yuzuki/index.html"
+  },
+  {
+    "staffName": "はづめろ Hazumero",
+    "dobDay": "7",
+    "dobMonth": "8",
+    "dobYear": "1999",
+    "height": "?",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/@melomelo1187",
+      "Instagram": "www.instagram.com/hs1187_"
+    },
+    "folderName": "hazumero",
+    "hostUrl": "https://www.host2.jp/shop/miyabibyacqua/hazumero/index.html"
+  },
+  {
+    "staffName": "纏 Matoi",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "178",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "shhhoo012"
+    },
+    "staffDescription": "お待ちしてます",
+    "folderName": "matoi",
+    "hostUrl": "https://www.host2.jp/shop/miyabibyacqua/matoi/index.html"
+  },
+  {
+    "staffName": "紫宮明璃 Akari Shinomiya",
+    "dobDay": "8",
+    "dobMonth": "2",
+    "dobYear": "2003",
+    "height": "168",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/MIYABI_Akari",
+      "Instagram": "www.instagram.com/Croix._.akari"
+    },
+    "staffDescription": "よろしくお願いします",
+    "folderName": "akari",
+    "hostUrl": "https://www.host2.jp/shop/miyabibyacqua/akari/index.html"
+  },
+  {
+    "staffName": "月永レオ Reo Tsukinaga",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "170",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "staffDescription": "フィリピンバナナください〜",
+    "folderName": "reo01",
+    "hostUrl": "https://www.host2.jp/shop/miyabibyacqua/reo01/index.html"
+  },
+  {
+    "staffName": "天使れい Rei Amatsuka",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "folderName": "rei01",
+    "hostUrl": "https://www.host2.jp/shop/miyabibyacqua/rei01/index.html"
+  },
+  {
+    "staffName": "佐々木 翔人 Shori Sasaki",
+    "dobDay": "30",
+    "dobMonth": "10",
+    "dobYear": "1996",
+    "height": "172",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "staffDescription": "優しくして下さい",
+    "folderName": "shori",
+    "hostUrl": "https://www.host2.jp/shop/miyabibyacqua/shori/index.html"
+  },
+  {
+    "staffName": "上杉 明 Akira Uesugi",
+    "dobDay": "8",
+    "dobMonth": "5",
+    "dobYear": "1978",
+    "height": "184",
+    "bloodGroup": "AB+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/akira_garden",
+      "Instagram": "www.instagram.com/_akira_4238"
+    },
+    "staffDescription": "楽しく飲みましょう!!",
+    "folderName": "akira",
+    "hostUrl": "https://www.host2.jp/shop/miyabibyacqua/akira/index.html"
+  },
+  {
+    "staffName": "天ヶ瀬 純翠 Junsui Amagase",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "175",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "店舗運営スタッフ/AOGROUPナビゲーター",
+    "socialLinks": {
+      "LINE": "romeo-e630",
+      "X": "twitter.com/Romeo_E630",
+      "Instagram": "www.instagram.com/romioe7/"
+    },
+    "folderName": "junsui",
+    "hostUrl": "https://www.host2.jp/shop/miyabibyacqua/junsui/index.html"
+  }
+]

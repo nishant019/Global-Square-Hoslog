@@ -1,0 +1,121 @@
+[
+  {
+    "staffNameEng": "神木ハク",
+    "staffNameKana": "Haku",
+    "dobDay": "8",
+    "dobMonth": "11",
+    "dobYear": "1999",
+    "height": "171",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "instagram": "www.instagram.com/haku_kamiki"
+    }
+  },
+  {
+    "staffNameEng": "若木",
+    "staffNameKana": "翼",
+    "dobDay": "5",
+    "dobMonth": "10",
+    "dobYear": "1992",
+    "height": "165",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "position": "主任",
+    "socialLinks": {
+      "twitter": "twitter.com/wakakitubasa1",
+      "instagram": "www.instagram.com/wakakitubasa"
+    },
+    "staffDescription": "おっぱー!!つばちむだよー!!"
+  },
+  {
+    "staffNameEng": "神威凌駕",
+    "staffNameKana": "Ryoga",
+    "dobDay": "19",
+    "dobMonth": "9",
+    "dobYear": "1997",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "代表",
+    "socialLinks": {
+      "twitter": "twitter.com/ryoga_7777",
+      "instagram": "www.instagram.com/ryoga_7777"
+    }
+  },
+  {
+    "staffNameEng": "羽叶",
+    "staffNameKana": "Wakana",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "神威朱雀",
+    "staffNameKana": "Suzaku",
+    "dobDay": "19",
+    "dobMonth": "7",
+    "dobYear": "1996",
+    "height": "185",
+    "bloodGroup": "AB+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {
+      "twitter": "twitter.com/IRIS__suzaku",
+      "instagram": "www.instagram.com/suzaku0719"
+    }
+  },
+  {
+    "staffNameEng": "清紫",
+    "staffNameKana": "Kiyoshi",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "鷹丸",
+    "staffNameKana": "Takamaru",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "貞男",
+    "staffNameKana": "Sadao",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "マコ",
+    "staffNameKana": "Mako",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "500円ニキ",
+    "staffNameKana": "Gohyakuenniki",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "staffNameEng": "水樹礼斗",
+    "staffNameKana": "Reito",
+    "dobDay": "7",
+    "dobMonth": "6",
+    "dobYear": "1998",
+    "height": "175",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "プロデューサー",
+    "socialLinks": {
+      "X": "twitter.com/reitoaxel",
+      "Instagram": "www.instagram.com/reitoaxel/"
+    },
+    "staffDescription": "とりあえずLINE下さい。"
+  },
+  {
+    "staffNameEng": "蓮",
+    "staffNameKana": "Ren",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "部長"
+  },
+  {
+    "staffNameEng": "るい",
+    "staffNameKana": "Rui",
+    "dobDay": "11",
+    "dobMonth": "3",
+    "dobYear": "1995",
+    "height": "180",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "ruiiii_0311",
+      "X": "twitter.com/ruirui_axel",
+      "Instagram": "www.instagram.com/ruiiii_axel"
+    }
+  },
+  {
+    "staffNameEng": "V",
+    "staffNameKana": "V",
+    "dobDay": "26",
+    "dobMonth": "7",
+    "dobYear": "1995",
+    "height": "176",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "position": "支配人",
+    "socialLinks": {
+      "Instagram": "www.instagram.com/v_axel_acqua"
+    }
+  },
+  {
+    "staffNameEng": "ましろ",
+    "staffNameKana": "Mashiro",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "けい",
+    "staffNameKana": "Kei",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "一ノ瀬玲鳳",
+    "staffNameKana": "Reo",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "支配人"
+  },
+  {
+    "staffNameEng": "奏多",
+    "staffNameKana": "Kanata",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "主任"
+  },
+  {
+    "staffNameEng": "白咲瑠姫",
+    "staffNameKana": "Ruki",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {
+      "X": "twitter.com/xoxo_rukimero",
+      "Instagram": "www.instagram.com/_melonsoda_ruki/"
+    }
+  },
+  {
+    "staffNameEng": "ぎんまる",
+    "staffNameKana": "Ginmaru",
+    "dobDay": "11",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "173",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {
+      "X": "twitter.com/ginnmarudayo",
+      "Instagram": "www.instagram.com/ginmaru_chan"
+    }
+  }
+]

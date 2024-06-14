@@ -1,0 +1,91 @@
+[
+  {
+    "staffName": "MaskMen Men Mask",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "代表",
+    "socialLinks": {
+      "Instagram": "www.instagram.com/x_maskmen_x"
+    },
+    "folderName": "men",
+    "hostUrl": "https://www.host2.jp/shop/label/men/index.html"
+  },
+  {
+    "staffName": "霞 碧ト Kasumi Aoto",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "AB+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "Instagram": "www.instagram.com/ao__ring/"
+    },
+    "folderName": "aoto",
+    "hostUrl": "https://www.host2.jp/shop/label/aoto/index.html"
+  },
+  {
+    "staffName": "暦道 Rekito",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "rekitttil",
+      "Instagram": "www.instagram.com/rekito_l"
+    },
+    "folderName": "rekito",
+    "hostUrl": "https://www.host2.jp/shop/label/rekito/index.html"
+  },
+  {
+    "staffName": "玲緒 Reo",
+    "dobDay": "13",
+    "dobMonth": "11",
+    "dobYear": "1995",
+    "height": "173",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/reo20031113",
+      "Instagram": "www.instagram.com/reo_lucifer"
+    },
+    "folderName": "reo",
+    "hostUrl": "https://www.host2.jp/shop/label/reo/index.html"
+  },
+  {
+    "staffName": "遊 Yu",
+    "dobDay": "3",
+    "dobMonth": "6",
+    "dobYear": "1995",
+    "height": "180",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "yuito0603"
+    },
+    "folderName": "yu",
+    "hostUrl": "https://www.host2.jp/shop/label/yu/index.html"
+  },
+  {
+    "staffName": "ジョビー岸田 Jobby Kishida",
+    "dobDay": "5",
+    "dobMonth": "4",
+    "dobYear": "1983",
+    "height": "172",
+    "bloodGroup": "AB+",
+    "consti": "さそり座",
+    "position": "代表取締役社長/ACQUA GROUP最高本部",
+    "socialLinks": {
+      "LINE": "h.k.a.0405",
+      "Instagram": "www.instagram.com/haruki_kishida.0405"
+    },
+    "folderName": "jobby",
+    "hostUrl": "https://www.host2.jp/shop/label/jobby/index.html"
+  }
+]

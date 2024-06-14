@@ -1,0 +1,120 @@
+[
+  {
+    "staffNameEng": "黒魅こよみ",
+    "staffNameKana": "Koyomi",
+    "dobDay": "11",
+    "dobMonth": "2",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "副主任",
+    "socialLinks": {
+      "LINE": "194058g"
+    },
+    "staffDescription": "罪の報いは死"
+  },
+  {
+    "staffNameEng": "藤堂すばる",
+    "staffNameKana": "Subaru",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "169",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "リーダー"
+  },
+  {
+    "staffNameEng": "耀",
+    "staffNameKana": "Yo",
+    "dobDay": "21",
+    "dobMonth": "5",
+    "dobYear": "1995",
+    "height": "169",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "副主任"
+  },
+  {
+    "staffNameEng": "天色りょーた",
+    "staffNameKana": "Ryota",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "175",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "代表",
+    "socialLinks": {
+      "LINE": "0823ryota"
+    }
+  },
+  {
+    "staffNameEng": "KID",
+    "staffNameKana": "Kid",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "169",
+    "bloodGroup": "AB+",
+    "consti": "さそり座",
+    "position": "リーダー"
+  },
+  {
+    "staffNameEng": "麗音",
+    "staffNameKana": "Reon",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "168",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "リーダー"
+  },
+  {
+    "staffNameEng": "勇人",
+    "staffNameKana": "Hayato",
+    "dobDay": "23",
+    "dobMonth": "4",
+    "dobYear": "1998",
+    "height": "169",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "リーダー",
+    "socialLinks": {
+      "mail": "takeki04230712@docomo.ne.jp"
+    }
+  },
+  {
+    "staffNameEng": "剣城",
+    "staffNameKana": "珀",
+    "dobDay": "20",
+    "dobMonth": "4",
+    "dobYear": "2002",
+    "height": "169",
+    "bloodGroup": "A+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "流聖",
+    "staffNameKana": "Ryusei",
+    "dobDay": "26",
+    "dobMonth": "11",
+    "dobYear": "1995",
+    "height": "178",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "幹部補佐"
+  },
+  {
+    "staffNameEng": "なぎさ",
+    "staffNameKana": "Nagisa",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "177",
+    "bloodGroup": "O+",
+    "consti": "さそり座"
+  }
+]

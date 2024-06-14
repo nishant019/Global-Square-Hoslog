@@ -1,0 +1,12 @@
+[
+    {
+        "type": "innerText",
+        "value":"プロフィールを更新",
+        "element":"[type='submit']"
+    },
+    {
+        "type": "innerText",
+        "value":"アカウントを削除する",
+        "element":"p.ml-2"
+    }
+]

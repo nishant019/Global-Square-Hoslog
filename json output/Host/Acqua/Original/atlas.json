@@ -1,0 +1,67 @@
+[
+  {
+    "staffName": "神楽洋介 Yosuke Kagura",
+    "dobDay": "16",
+    "dobMonth": "8",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "代表",
+    "socialLinks": {
+      "LINE": "zt0816",
+      "X": "twitter.com/yousu_ke0816",
+      "Instagram": "www.instagram.com/yous.uke0816"
+    },
+    "folderName": "yosuke",
+    "hostUrl": "https://www.host2.jp/shop/atlas/yosuke/index.html"
+  },
+  {
+    "staffName": "小鳥遊 瑛知 Eichi Takanashi",
+    "dobDay": "9",
+    "dobMonth": "10",
+    "dobYear": "1995",
+    "height": "173",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "position": "店舗運営スタッフ",
+    "socialLinks": {
+      "LINE": "yuyu-1010",
+      "X": "twitter.com/hostyan_Lv25",
+      "Instagram": "www.instagram.com/takanashi_desu_axis"
+    },
+    "folderName": "eichi",
+    "hostUrl": "https://www.host2.jp/shop/atlas/eichi/index.html"
+  },
+  {
+    "staffName": "かなやんかな田 Kanata Kanayan",
+    "dobDay": "1",
+    "dobMonth": "4",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "プロデューサー",
+    "socialLinks": {
+      "LINE": "ma.h0912",
+      "X": "twitter.com/godkanatasama",
+      "Instagram": "www.instagram.com/kanata_sama_0401"
+    },
+    "folderName": "kanata",
+    "hostUrl": "https://www.host2.jp/shop/atlas/kanata/index.html"
+  },
+  {
+    "staffName": "九条 椿 Tsubaki kujo",
+    "dobDay": "14",
+    "dobMonth": "3",
+    "dobYear": "1995",
+    "height": "173",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "AXEL GROUP会長/ACQUA GROUP最高本部",
+    "socialLinks": {},
+    "staffDescription": "何でも融通きかせます!(笑)",
+    "folderName": "tsubaki",
+    "hostUrl": "https://www.host2.jp/shop/atlas/tsubaki/index.html"
+  }
+]

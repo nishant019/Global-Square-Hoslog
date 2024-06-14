@@ -1,0 +1,124 @@
+[
+  {
+    "staffNameEng": "(株)あすか",
+    "staffNameKana": "Asuka",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "175",
+    "bloodGroup": "AB+",
+    "consti": "さそり座",
+    "position": "支配人",
+    "socialLinks": {
+      "LINE": "yhayhayhaaaa",
+      "Twitter": "twitter.com/yamakawa3927"
+    },
+    "staffDescription": "株、買ってくれるかな!163(10000円～)"
+  },
+  {
+    "staffNameEng": "八神詩音",
+    "staffNameKana": "Shion　Yagami",
+    "dobDay": "15",
+    "dobMonth": "11",
+    "dobYear": "1995",
+    "height": "175",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {
+      "LINE": "20tommy00"
+    }
+  },
+  {
+    "staffNameEng": "やまてぃ",
+    "staffNameKana": "Yamatei",
+    "dobDay": "12",
+    "dobMonth": "10",
+    "dobYear": "1995",
+    "height": "170",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "リーダー"
+  },
+  {
+    "staffNameEng": "結城陽光",
+    "staffNameKana": "Hikaru",
+    "dobDay": "21",
+    "dobMonth": "12",
+    "dobYear": "1995",
+    "height": "168",
+    "bloodGroup": "AB+",
+    "consti": "さそり座",
+    "position": "副主任",
+    "socialLinks": {
+      "LINE": "hikaru1221"
+    },
+    "staffDescription": "みんな!!オラに現金を可能なかぎりわけてくれ！たのむ！"
+  },
+  {
+    "staffNameEng": "晴レルヤ晴希",
+    "staffNameKana": "Haruki",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "163",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "主任"
+  },
+  {
+    "staffNameEng": "嘘つき蓮",
+    "staffNameKana": "Ren",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "168",
+    "bloodGroup": "AB+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "kubo369"
+    },
+    "staffDescription": "夢に向かって、がんばっています。"
+  },
+  {
+    "staffNameEng": "心",
+    "staffNameKana": "Shin",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "163",
+    "bloodGroup": "O+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "せりのしゅん",
+    "staffNameKana": "Serinoshun",
+    "dobDay": "5",
+    "dobMonth": "6",
+    "dobYear": "1995",
+    "height": "172",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "position": "リーダー"
+  },
+  {
+    "staffNameEng": "JOKER",
+    "staffNameKana": "Joker",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "163",
+    "bloodGroup": "O+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "皐月",
+    "staffNameKana": "Satsuki",
+    "dobDay": "8",
+    "dobMonth": "5",
+    "dobYear": "1995",
+    "height": "172",
+    "bloodGroup": "O+",
+    "consti": "さそり座"
+  }
+]

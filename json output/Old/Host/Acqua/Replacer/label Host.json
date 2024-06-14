@@ -1,0 +1,126 @@
+[
+  {
+    "staffNameEng": "MaskMen",
+    "staffNameKana": "Men",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "代表"
+  },
+  {
+    "staffNameEng": "霞",
+    "staffNameKana": "碧ト",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "AB+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "Instagram": "www.instagram.com/ao__ring/",
+      "TikTok": "www.tiktok.com/@ao__ring"
+    }
+  },
+  {
+    "staffNameEng": "星成",
+    "staffNameKana": "Sena",
+    "dobDay": "6",
+    "dobMonth": "11",
+    "dobYear": "2001",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "staffDescription": "インスタの方が見ます"
+  },
+  {
+    "staffNameEng": "玲緒",
+    "staffNameKana": "Reo",
+    "dobDay": "13",
+    "dobMonth": "11",
+    "dobYear": "1995",
+    "height": "173",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {
+      "X": "twitter.com/reo20031113",
+      "Instagram": "www.instagram.com/reo_lucifer"
+    }
+  },
+  {
+    "staffNameEng": "銀色嶺愛",
+    "staffNameKana": "Reia",
+    "dobDay": "31",
+    "dobMonth": "12",
+    "dobYear": "1999",
+    "height": "170",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "Instagram": "www.instagram.com/gin_tokyo"
+    },
+    "staffDescription": "宜しくお願いします!!"
+  },
+  {
+    "staffNameEng": "165",
+    "staffNameKana": "Hatena",
+    "dobDay": "22",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "暦道",
+    "staffNameKana": "Rekito",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "rekitttil",
+      "Instagram": "www.instagram.com/rekito_l"
+    }
+  },
+  {
+    "staffNameEng": "ねむいれむ",
+    "staffNameKana": "Remu",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "2003",
+    "height": "171",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "staffDescription": "ホストがんばゆ!!"
+  },
+  {
+    "staffNameEng": "亜星光生",
+    "staffNameKana": "Kosei",
+    "dobDay": "24",
+    "dobMonth": "11",
+    "dobYear": "1900",
+    "height": "100",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "店舗運営スタッフ"
+  },
+  {
+    "staffNameEng": "遊",
+    "staffNameKana": "Yu",
+    "dobDay": "3",
+    "dobMonth": "6",
+    "dobYear": "1995",
+    "height": "180",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "yuito0603"
+    }
+  }
+]

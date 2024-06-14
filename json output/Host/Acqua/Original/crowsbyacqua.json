@@ -1,0 +1,363 @@
+[
+  {
+    "staffName": "春乃ユーリ Yuri Haruno",
+    "dobDay": "30",
+    "dobMonth": "6",
+    "dobYear": "1994",
+    "height": "167",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "Super Player",
+    "socialLinks": {
+      "LINE": "fc.bkb",
+      "X": "twitter.com/yu_ri_acqua",
+      "Instagram": "www.instagram.com/suguyuuuuuu/"
+    },
+    "folderName": "yuri",
+    "hostUrl": "https://www.host2.jp/shop/crowsbyacqua/yuri/index.html"
+  },
+  {
+    "staffName": "義紀さん Yoshikisan",
+    "dobDay": "4",
+    "dobMonth": "11",
+    "dobYear": "1995",
+    "height": "177",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "position": "取締役",
+    "socialLinks": {
+      "LINE": "yoshiki1104",
+      "X": "twitter.com/girininjo1104",
+      "Instagram": "www.instagram.com/giri_ninjo"
+    },
+    "folderName": "yoshikisan",
+    "hostUrl": "https://www.host2.jp/shop/crowsbyacqua/yoshikisan/index.html"
+  },
+  {
+    "staffName": "七海 珀 Haku Nanami",
+    "dobDay": "1",
+    "dobMonth": "9",
+    "dobYear": "2000",
+    "height": "173",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {
+      "LINE": "tokyono00hitodyo",
+      "X": "twitter.com/tokyo777Sakyu",
+      "Instagram": "www.instagram.com/nanamihaku777"
+    },
+    "staffDescription": "1回指名で来たらいい事あるかもね･･･？",
+    "folderName": "haku",
+    "hostUrl": "https://www.host2.jp/shop/crowsbyacqua/haku/index.html"
+  },
+  {
+    "staffName": "木南 空 Sora Kinami",
+    "dobDay": "4",
+    "dobMonth": "1",
+    "dobYear": "1992",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "支配人",
+    "socialLinks": {
+      "X": "twitter.com/104_si",
+      "Instagram": "www.instagram.com/oh_sorasan/"
+    },
+    "folderName": "sora",
+    "hostUrl": "https://www.host2.jp/shop/crowsbyacqua/sora/index.html"
+  },
+  {
+    "staffName": "遥 Haruka",
+    "dobDay": "15",
+    "dobMonth": "4",
+    "dobYear": "1996",
+    "height": "170",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "position": "副主任",
+    "socialLinks": {
+      "X": "twitter.com/HARUHARU_CROWS",
+      "Instagram": "www.instagram.com/haruharu_crows"
+    },
+    "folderName": "haruka",
+    "hostUrl": "https://www.host2.jp/shop/crowsbyacqua/haruka/index.html"
+  },
+  {
+    "staffName": "桜葉るか Ruka Sakuraba",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "Instagram": "www.instagram.com/sakurabaruka_crows"
+    },
+    "folderName": "ruka",
+    "hostUrl": "https://www.host2.jp/shop/crowsbyacqua/ruka/index.html"
+  },
+  {
+    "staffName": "奏音もか Moka Kanon",
+    "dobDay": "23",
+    "dobMonth": "7",
+    "dobYear": "1995",
+    "height": "170",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "リーダー",
+    "socialLinks": {
+      "LINE": "teruteruchan0723",
+      "X": "twitter.com/but___ter_fly_",
+      "Instagram": "www.instagram.com/but__ter.fly_"
+    },
+    "folderName": "moka",
+    "hostUrl": "https://www.host2.jp/shop/crowsbyacqua/moka/index.html"
+  },
+  {
+    "staffName": "桜 澪 Rei Sakura",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "folderName": "rei",
+    "hostUrl": "https://www.host2.jp/shop/crowsbyacqua/rei/index.html"
+  },
+  {
+    "staffName": "一ノ瀬 麗弥 Reiya Ichinose",
+    "dobDay": "30",
+    "dobMonth": "11",
+    "dobYear": "1999",
+    "height": "178",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/TMYxxxxxxx",
+      "Instagram": "www.instagram.com/orereiya/"
+    },
+    "folderName": "reiya",
+    "hostUrl": "https://www.host2.jp/shop/crowsbyacqua/reiya/index.html"
+  },
+  {
+    "staffName": "有馬碧壱 Aoi Arima",
+    "dobDay": "15",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "167",
+    "bloodGroup": "AB+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "1987091519870915",
+      "X": "twitter.com/7fUvBbzJ4vTizkL",
+      "Instagram": "www.instagram.com/mizusawa_aoi"
+    },
+    "staffDescription": "水揚げしてーblog",
+    "folderName": "aoi",
+    "hostUrl": "https://www.host2.jp/shop/crowsbyacqua/aoi/index.html"
+  },
+  {
+    "staffName": "桜木 涼 Ryo Sakuragi",
+    "dobDay": "16",
+    "dobMonth": "6",
+    "dobYear": "1995",
+    "height": "173",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "lovepea000",
+      "X": "mobile.twitter.com/sakuragi_ryoo",
+      "Instagram": "www.instagram.com/sakuragi_ryoo/"
+    },
+    "folderName": "ryo",
+    "hostUrl": "https://www.host2.jp/shop/crowsbyacqua/ryo/index.html"
+  },
+  {
+    "staffName": "咲隈 Sakuma",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "folderName": "sakuma",
+    "hostUrl": "https://www.host2.jp/shop/crowsbyacqua/sakuma/index.html"
+  },
+  {
+    "staffName": "五条 悟 Satoru Gojo",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "staffDescription": "「大丈夫、僕最強だから」",
+    "folderName": "satoru",
+    "hostUrl": "https://www.host2.jp/shop/crowsbyacqua/satoru/index.html"
+  },
+  {
+    "staffName": "桐生大地 Daichi Kiryu",
+    "dobDay": "27",
+    "dobMonth": "7",
+    "dobYear": "1995",
+    "height": "175",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "guitar2627",
+      "X": "twitter.com/mobile.Kiryu_Daichi",
+      "Instagram": "www.instagram.com/daichi_guitar27/"
+    },
+    "folderName": "daichi",
+    "hostUrl": "https://www.host2.jp/shop/crowsbyacqua/daichi/index.html"
+  },
+  {
+    "staffName": "田中星人 Seijin Tanaka",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "folderName": "seijin",
+    "hostUrl": "https://www.host2.jp/shop/crowsbyacqua/seijin/index.html"
+  },
+  {
+    "staffName": "真姫 Maki",
+    "dobDay": "28",
+    "dobMonth": "4",
+    "dobYear": "2002",
+    "height": "200",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "folderName": "maki01",
+    "hostUrl": "https://www.host2.jp/shop/crowsbyacqua/maki01/index.html"
+  },
+  {
+    "staffName": "きり丸 Kirimaru",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "175",
+    "bloodGroup": "AB+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "kirimaru1212",
+      "X": "twitter.com/kirimaruuuu_",
+      "Instagram": "www.instagram.com/kirimaruuuu_"
+    },
+    "folderName": "kirimaru",
+    "hostUrl": "https://www.host2.jp/shop/crowsbyacqua/kirimaru/index.html"
+  },
+  {
+    "staffName": "ショウ Sho",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "folderName": "sho01",
+    "hostUrl": "https://www.host2.jp/shop/crowsbyacqua/sho01/index.html"
+  },
+  {
+    "staffName": "さくら咲夜 Sakuyo Sakura",
+    "dobDay": "24",
+    "dobMonth": "3",
+    "dobYear": "1995",
+    "height": "170",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "position": "内勤兼player",
+    "socialLinks": {
+      "LINE": "nyapio16",
+      "X": "twitter.com/nyapi_ch",
+      "Instagram": "www.instagram.com/sakurasakuya2022/"
+    },
+    "folderName": "sakuyo",
+    "hostUrl": "https://www.host2.jp/shop/crowsbyacqua/sakuyo/index.html"
+  },
+  {
+    "staffName": "向上 心 Shin Kojo",
+    "dobDay": "7",
+    "dobMonth": "10",
+    "dobYear": "1991",
+    "height": "162",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "店舗運営スタッフ",
+    "socialLinks": {
+      "LINE": "hiyama1007",
+      "X": "twitter.com/kojoshin1007",
+      "Instagram": "www.instagram.com/koujou1007"
+    },
+    "staffDescription": "スーパー 大地くん 最高！\nスーパー 大地くん 万歳！",
+    "folderName": "shin01",
+    "hostUrl": "https://www.host2.jp/shop/crowsbyacqua/shin01/index.html"
+  },
+  {
+    "staffName": "恋宝一輝 Kazuki Renpo",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "人事部長",
+    "socialLinks": {},
+    "folderName": "kazuki",
+    "hostUrl": "https://www.host2.jp/shop/crowsbyacqua/kazuki/index.html"
+  },
+  {
+    "staffName": "やっぱり正人 Masato",
+    "dobDay": "4",
+    "dobMonth": "6",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "店舗運営スタッフ/マネージャー/ACQUA GROUP運営本部",
+    "socialLinks": {
+      "LINE": "asao0604",
+      "Instagram": "www.instagram.com/asao_w213/"
+    },
+    "folderName": "masato",
+    "hostUrl": "https://www.host2.jp/shop/crowsbyacqua/masato/index.html"
+  },
+  {
+    "staffName": "春次 Shunji",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "180",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "Total Advisor",
+    "socialLinks": {},
+    "folderName": "shunji",
+    "hostUrl": "https://www.host2.jp/shop/crowsbyacqua/shunji/index.html"
+  },
+  {
+    "staffName": "大谷孔明 Komei Otani",
+    "dobDay": "26",
+    "dobMonth": "10",
+    "dobYear": "1979",
+    "height": "174",
+    "bloodGroup": "AB+",
+    "consti": "さそり座",
+    "position": "社長/ACQUA GROUP 最高本部",
+    "socialLinks": {
+      "X": "twitter.com/otn1026",
+      "Instagram": "www.instagram.com/koumei1026/"
+    },
+    "folderName": "komei",
+    "hostUrl": "https://www.host2.jp/shop/crowsbyacqua/komei/index.html"
+  }
+]

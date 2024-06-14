@@ -1,0 +1,113 @@
+[
+  {
+    "staffNameEng": "寿",
+    "staffNameKana": "育哉",
+    "dobDay": "6",
+    "dobMonth": "2",
+    "dobYear": "1995",
+    "height": "174",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "代表"
+  },
+  {
+    "staffNameEng": "八咫",
+    "staffNameKana": "鏡",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "主任"
+  },
+  {
+    "staffNameEng": "涼風爽良",
+    "staffNameKana": "Sora",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "主任"
+  },
+  {
+    "staffNameEng": "影",
+    "staffNameKana": "響",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "副主任"
+  },
+  {
+    "staffNameEng": "夜桜美春",
+    "staffNameKana": "Miharu",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "幹部補佐"
+  },
+  {
+    "staffNameEng": "卯城",
+    "staffNameKana": "雨空斗",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "副主任"
+  },
+  {
+    "staffNameEng": "水無月",
+    "staffNameKana": "海翔",
+    "dobDay": "16",
+    "dobMonth": "6",
+    "dobYear": "1999",
+    "height": "174",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {
+      "twitter": "twitter.com/manato8hatch",
+      "instagram": "www.instagram.com/mmmmm616u/"
+    }
+  },
+  {
+    "staffNameEng": "遥愛",
+    "staffNameKana": "Harua",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "煌斗",
+    "staffNameKana": "Kirato",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座"
+  },
+  {
+    "staffNameEng": "成海玲花",
+    "staffNameKana": "Reika",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "165",
+    "bloodGroup": "A+",
+    "consti": "さそり座"
+  }
+]

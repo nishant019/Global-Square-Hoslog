@@ -1,0 +1,639 @@
+[
+  {
+    "staffName": "桜 玲央 Reo Sakura",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "Super Player",
+    "socialLinks": {
+      "X": "twitter.com/@reo_reo_reoppi",
+      "Instagram": "www.instagram.com/reo_reo_reoppi"
+    },
+    "folderName": "reo01",
+    "hostUrl": "https://www.host2.jp/shop/acqua/reo01/index.html"
+  },
+  {
+    "staffName": "瑛翔 Eito",
+    "dobDay": "1",
+    "dobMonth": "10",
+    "dobYear": "1996",
+    "height": "174",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "代表",
+    "socialLinks": {
+      "LINE": "50.1001",
+      "X": "twitter.com/eito1001_",
+      "Instagram": "www.instagram.com/eito.1001"
+    },
+    "folderName": "eito3",
+    "hostUrl": "https://www.host2.jp/shop/acqua/eito3/index.html"
+  },
+  {
+    "staffName": "ともや Tomoya",
+    "dobDay": "9",
+    "dobMonth": "1",
+    "dobYear": "1995",
+    "height": "176",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "部長",
+    "socialLinks": {
+      "LINE": "tomoyannnnnn",
+      "X": "twitter.com/@ACQUA_tomoya",
+      "Instagram": "www.instagram.com/ACQUA_tomoya0109"
+    },
+    "folderName": "tomoya",
+    "hostUrl": "https://www.host2.jp/shop/acqua/tomoya/index.html"
+  },
+  {
+    "staffName": "セナ Sena",
+    "dobDay": "24",
+    "dobMonth": "5",
+    "dobYear": "1998",
+    "height": "177",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "position": "主任",
+    "socialLinks": {
+      "LINE": "kaitokonvtc",
+      "X": "twitter.com/acqua524sena",
+      "Instagram": "www.instagram.com/sena0524acqua"
+    },
+    "folderName": "sena01",
+    "hostUrl": "https://www.host2.jp/shop/acqua/sena01/index.html"
+  },
+  {
+    "staffName": "新星 Shinsei",
+    "dobDay": "21",
+    "dobMonth": "7",
+    "dobYear": "1995",
+    "height": "174",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "取締役",
+    "socialLinks": {
+      "LINE": "0721jmyu",
+      "Instagram": "www.instagram.com/motuni0721"
+    },
+    "staffDescription": "お客様の心の拠り所になれたら嬉しいです!!",
+    "folderName": "shinsei",
+    "hostUrl": "https://www.host2.jp/shop/acqua/shinsei/index.html"
+  },
+  {
+    "staffName": "雪恋 Seren",
+    "dobDay": "22",
+    "dobMonth": "5",
+    "dobYear": "1995",
+    "height": "182",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {
+      "X": "twitter.com/snowlove_seren",
+      "Instagram": "www.instagram.com/snowlove_seren/"
+    },
+    "folderName": "seren",
+    "hostUrl": "https://www.host2.jp/shop/acqua/seren/index.html"
+  },
+  {
+    "staffName": "七五三掛ノア Noa Shimekake",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "folderName": "noa02",
+    "hostUrl": "https://www.host2.jp/shop/acqua/noa02/index.html"
+  },
+  {
+    "staffName": "湊みらい Mirai Minato",
+    "dobDay": "22",
+    "dobMonth": "5",
+    "dobYear": "1990",
+    "height": "178",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "部長",
+    "socialLinks": {
+      "X": "twitter.com/@acquamirai"
+    },
+    "staffDescription": "一生懸命頑張るので指名してください。",
+    "folderName": "mirai",
+    "hostUrl": "https://www.host2.jp/shop/acqua/mirai/index.html"
+  },
+  {
+    "staffName": "天宮世煌 Sera Amamiya",
+    "dobDay": "15",
+    "dobMonth": "3",
+    "dobYear": "2002",
+    "height": "175",
+    "bloodGroup": "AB+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "h__k_gd",
+      "X": "twitter.com/@amasera0215",
+      "Instagram": "www.instagram.com/amasera0215"
+    },
+    "folderName": "sera",
+    "hostUrl": "https://www.host2.jp/shop/acqua/sera/index.html"
+  },
+  {
+    "staffName": "龍飛 Ryuhi",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/ryuhiiiii16",
+      "Instagram": "www.instagram.com/r.y001016"
+    },
+    "folderName": "ryuhi",
+    "hostUrl": "https://www.host2.jp/shop/acqua/ryuhi/index.html"
+  },
+  {
+    "staffName": "獅子王 豪 Go Shishio",
+    "dobDay": "15",
+    "dobMonth": "4",
+    "dobYear": "1995",
+    "height": "187",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "副主任",
+    "socialLinks": {
+      "LINE": "mofu20110804",
+      "X": "twitter.com/go_19950415",
+      "Instagram": "www.instagram.com/go_19950415/"
+    },
+    "staffDescription": "見た目も含めてキャラ被りしないホスト",
+    "folderName": "go",
+    "hostUrl": "https://www.host2.jp/shop/acqua/go/index.html"
+  },
+  {
+    "staffName": "くろむ Kuromu",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "172",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "non.0202",
+      "X": "twitter.com/_chrom966",
+      "Instagram": "www.instagram.com/kuromu966_acqua"
+    },
+    "folderName": "kuromu",
+    "hostUrl": "https://www.host2.jp/shop/acqua/kuromu/index.html"
+  },
+  {
+    "staffName": "亜希 Aki",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/@acqua_aki",
+      "Instagram": "www.instagram.com/aki__acqua"
+    },
+    "folderName": "aki01",
+    "hostUrl": "https://www.host2.jp/shop/acqua/aki01/index.html"
+  },
+  {
+    "staffName": "渋谷莉孔 Riku Shibuya",
+    "dobDay": "25",
+    "dobMonth": "1",
+    "dobYear": "1993",
+    "height": "185",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "rikuderu"
+    },
+    "folderName": "riku01",
+    "hostUrl": "https://www.host2.jp/shop/acqua/riku01/index.html"
+  },
+  {
+    "staffName": "めめ Meme",
+    "dobDay": "4",
+    "dobMonth": "9",
+    "dobYear": "1998",
+    "height": "181",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "Instagram": "www.instagram.com/kentokarano_meme"
+    },
+    "folderName": "meme",
+    "hostUrl": "https://www.host2.jp/shop/acqua/meme/index.html"
+  },
+  {
+    "staffName": "Leo Leo",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "ace19880708",
+      "Instagram": "www.instagram.com/0708leo/"
+    },
+    "folderName": "reo3",
+    "hostUrl": "https://www.host2.jp/shop/acqua/reo3/index.html"
+  },
+  {
+    "staffName": "大器 Daiki",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "184",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "abc-efg",
+      "X": "twitter.com/mobile.@daiki_daiki1113",
+      "Instagram": "www.instagram.com/daiki_acqua"
+    },
+    "folderName": "daiki",
+    "hostUrl": "https://www.host2.jp/shop/acqua/daiki/index.html"
+  },
+  {
+    "staffName": "ゆの Yuno",
+    "dobDay": "1",
+    "dobMonth": "6",
+    "dobYear": "2001",
+    "height": "183",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "ihsuy0601",
+      "Instagram": "www.instagram.com/yu___no01/"
+    },
+    "staffDescription": "待ってまーす！",
+    "folderName": "yuno",
+    "hostUrl": "https://www.host2.jp/shop/acqua/yuno/index.html"
+  },
+  {
+    "staffName": "齊藤なぎさ Nagisa Saito",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/@naginagi_acqua",
+      "Instagram": "www.instagram.com/11oinarisan24"
+    },
+    "folderName": "nagisa",
+    "hostUrl": "https://www.host2.jp/shop/acqua/nagisa/index.html"
+  },
+  {
+    "staffName": "ユナ Yuna",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "180",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "Instagram": "www.instagram.com/yu_seven_x"
+    },
+    "folderName": "yuna",
+    "hostUrl": "https://www.host2.jp/shop/acqua/yuna/index.html"
+  },
+  {
+    "staffName": "一ノ瀬 晴瑠 Haru Ichinose",
+    "dobDay": "2",
+    "dobMonth": "6",
+    "dobYear": "1996",
+    "height": "169",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "Instagram": "www.instagram.com/ichin_oseharu"
+    },
+    "folderName": "haru01",
+    "hostUrl": "https://www.host2.jp/shop/acqua/haru01/index.html"
+  },
+  {
+    "staffName": "七々瀬 虎珀 Kohaku Nanase",
+    "dobDay": "27",
+    "dobMonth": "11",
+    "dobYear": "1995",
+    "height": "175",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/nanase_kohaku_",
+      "Instagram": "www.instagram.com/7_se_589"
+    },
+    "folderName": "kohaku01",
+    "hostUrl": "https://www.host2.jp/shop/acqua/kohaku01/index.html"
+  },
+  {
+    "staffName": "ぽい Poi",
+    "dobDay": "18",
+    "dobMonth": "3",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/kannagetaroka",
+      "Instagram": "www.instagram.com/@poimonogatari"
+    },
+    "folderName": "poi",
+    "hostUrl": "https://www.host2.jp/shop/acqua/poi/index.html"
+  },
+  {
+    "staffName": "華威 Kai",
+    "dobDay": "4",
+    "dobMonth": "5",
+    "dobYear": "1995",
+    "height": "175",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "s_wonderland",
+      "X": "twitter.com/club_ACQUA_kai",
+      "Instagram": "www.instagram.com/kai.acqua1104"
+    },
+    "staffDescription": "落ち着きを武器に癒やしになれればと思います！\nぜひ一度会いに来て下さい！",
+    "folderName": "kai01",
+    "hostUrl": "https://www.host2.jp/shop/acqua/kai01/index.html"
+  },
+  {
+    "staffName": "七瀬 海 Umi Nanase",
+    "dobDay": "1",
+    "dobMonth": "10",
+    "dobYear": "1995",
+    "height": "167",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "umi-nanase11211001",
+      "Instagram": "www.instagram.com/neko.chucchu"
+    },
+    "folderName": "umi",
+    "hostUrl": "https://www.host2.jp/shop/acqua/umi/index.html"
+  },
+  {
+    "staffName": "カヲル(横浜大統領) Kaworu (Pres.Yokohama)",
+    "dobDay": "23",
+    "dobMonth": "1",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "maisonmuse",
+      "X": "twitter.com/ACQUA_KAWORU",
+      "Instagram": "www.instagram.com/acqua_kaworu"
+    },
+    "folderName": "kaoru3",
+    "hostUrl": "https://www.host2.jp/shop/acqua/kaoru3/index.html"
+  },
+  {
+    "staffName": "一樹 Itsuki",
+    "dobDay": "18",
+    "dobMonth": "4",
+    "dobYear": "1993",
+    "height": "170",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/aki_takejoo",
+      "Instagram": "www.instagram.com/itsuki_kamosirenai"
+    },
+    "folderName": "itsuki01",
+    "hostUrl": "https://www.host2.jp/shop/acqua/itsuki01/index.html"
+  },
+  {
+    "staffName": "なおと Naoto",
+    "dobDay": "14",
+    "dobMonth": "10",
+    "dobYear": "1995",
+    "height": "180",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "a_naoto_0701",
+      "X": "twitter.com/@a_naoto_0701",
+      "Instagram": "www.instagram.com/a_naoto_0701/"
+    },
+    "folderName": "naoto",
+    "hostUrl": "https://www.host2.jp/shop/acqua/naoto/index.html"
+  },
+  {
+    "staffName": "雨琉 Uru",
+    "dobDay": "17",
+    "dobMonth": "11",
+    "dobYear": "1995",
+    "height": "171",
+    "bloodGroup": "AB+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/acqua_kyoya",
+      "Instagram": "www.instagram.com/acqua_kyoya/"
+    },
+    "staffDescription": "ACQUA本店 でお待ちしております",
+    "folderName": "uru",
+    "hostUrl": "https://www.host2.jp/shop/acqua/uru/index.html"
+  },
+  {
+    "staffName": "周 Shu",
+    "dobDay": "22",
+    "dobMonth": "1",
+    "dobYear": "2001",
+    "height": "179",
+    "bloodGroup": "AB+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "koshiydk0122",
+      "X": "twitter.com/shut01379",
+      "Instagram": "www.instagram.com/wmekshak01"
+    },
+    "folderName": "shu01",
+    "hostUrl": "https://www.host2.jp/shop/acqua/shu01/index.html"
+  },
+  {
+    "staffName": "スサノオ Susano",
+    "dobDay": "31",
+    "dobMonth": "8",
+    "dobYear": "1988",
+    "height": "?",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "j1nj1nj1n",
+      "X": "twitter.com/JIN_j1n_",
+      "Instagram": "www.instagram.com/susanoo1021"
+    },
+    "staffDescription": "趣味…ゴルフ、御朱印集め、読書、一人旅、ピアノ\n共通の趣味の方ぜひ仲良くしてください。",
+    "folderName": "susano",
+    "hostUrl": "https://www.host2.jp/shop/acqua/susano/index.html"
+  },
+  {
+    "staffName": "Ryoma Ryoma",
+    "dobDay": "1",
+    "dobMonth": "10",
+    "dobYear": "2000",
+    "height": "182",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "Instagram": "www.instagram.com/ryoma_acqua"
+    },
+    "folderName": "ryoma03",
+    "hostUrl": "https://www.host2.jp/shop/acqua/ryoma03/index.html"
+  },
+  {
+    "staffName": "日々 面太る Mentaru Hibi",
+    "dobDay": "6",
+    "dobMonth": "9",
+    "dobYear": "1999",
+    "height": "170",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/@mental_hibi",
+      "Instagram": "www.instagram.com/mental_hibi"
+    },
+    "staffDescription": "メンタルケアお互いにしましょ。",
+    "folderName": "mentaru",
+    "hostUrl": "https://www.host2.jp/shop/acqua/mentaru/index.html"
+  },
+  {
+    "staffName": "爆豪勝己 Katsuki Bakugo",
+    "dobDay": "3",
+    "dobMonth": "2",
+    "dobYear": "2003",
+    "height": "170",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "ly248",
+      "X": "twitter.com/katsuki0165",
+      "Instagram": "www.instagram.com/katsuki.0165"
+    },
+    "staffDescription": "初めてのホスト頑張っていきます！",
+    "folderName": "katsuki01",
+    "hostUrl": "https://www.host2.jp/shop/acqua/katsuki01/index.html"
+  },
+  {
+    "staffName": "皇成 Kosei",
+    "dobDay": "6",
+    "dobMonth": "4",
+    "dobYear": "1984",
+    "height": "175",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "LINE": "pao4646"
+    },
+    "folderName": "kosei01",
+    "hostUrl": "https://www.host2.jp/shop/acqua/kosei01/index.html"
+  },
+  {
+    "staffName": "龍星 Ryusei",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "socialLinks": {},
+    "folderName": "ryusei02",
+    "hostUrl": "https://www.host2.jp/shop/acqua/ryusei02/index.html"
+  },
+  {
+    "staffName": "星七 Seina",
+    "dobDay": "27",
+    "dobMonth": "9",
+    "dobYear": "1999",
+    "height": "175",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/seina_ikuyo",
+      "Instagram": "www.instagram.com/seina_ikuyo"
+    },
+    "staffDescription": "お手柔らかに〜",
+    "folderName": "seina",
+    "hostUrl": "https://www.host2.jp/shop/acqua/seina/index.html"
+  },
+  {
+    "staffName": "夢乃 空 Sora Yumeno",
+    "dobDay": "2",
+    "dobMonth": "11",
+    "dobYear": "2002",
+    "height": "174",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "socialLinks": {
+      "X": "twitter.com/soradayoo_1102",
+      "Instagram": "www.instagram.com/sora.1102_"
+    },
+    "staffDescription": "まだまだ分からないことばっかですが全力でホストの魅力を発信していきたいです！",
+    "folderName": "sora02",
+    "hostUrl": "https://www.host2.jp/shop/acqua/sora02/index.html"
+  },
+  {
+    "staffName": "輝咲 月 Raito Kisaki",
+    "dobDay": "23",
+    "dobMonth": "5",
+    "dobYear": "1984",
+    "height": "170",
+    "bloodGroup": "O+",
+    "consti": "さそり座",
+    "position": "社長",
+    "socialLinks": {
+      "X": "twitter.com/mobile.@moon_raito1",
+      "Instagram": "www.instagram.com/raito.acqua/"
+    },
+    "staffDescription": "わし、らいとたすッ!!",
+    "folderName": "raito",
+    "hostUrl": "https://www.host2.jp/shop/acqua/raito/index.html"
+  },
+  {
+    "staffName": "柊木梨緒 Rio Hiragi",
+    "dobDay": "7",
+    "dobMonth": "4",
+    "dobYear": "1995",
+    "height": "174",
+    "bloodGroup": "AB+",
+    "consti": "さそり座",
+    "position": "店舗運営スタッフ",
+    "socialLinks": {
+      "LINE": "p-rio-q",
+      "X": "twitter.com/@pprio3",
+      "Instagram": "www.instagram.com/p.rionosuke/"
+    },
+    "staffDescription": "楽しい事一緒にやれる人探してるので何でも誘ってくれる女性待ってます♪\n美容も大好きなので話したりヘアカラーは俺がやるから言って下さい☆",
+    "folderName": "rio2",
+    "hostUrl": "https://www.host2.jp/shop/acqua/rio2/index.html"
+  },
+  {
+    "staffName": "慧 Kei",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "店舗運営スタッフ",
+    "socialLinks": {},
+    "folderName": "kei02",
+    "hostUrl": "https://www.host2.jp/shop/acqua/kei02/index.html"
+  }
+]

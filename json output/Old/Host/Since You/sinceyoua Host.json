@@ -1,0 +1,142 @@
+[
+  {
+    "staffNameEng": "聡真",
+    "staffNameKana": "Soma",
+    "dobDay": "3",
+    "dobMonth": "4",
+    "dobYear": "1995",
+    "height": "183",
+    "bloodGroup": "B+",
+    "consti": "さそり座",
+    "position": "支配人",
+    "socialLinks": {}
+  },
+  {
+    "staffNameEng": "はじめ",
+    "staffNameKana": "Hajime",
+    "dobDay": "30",
+    "dobMonth": "1",
+    "dobYear": "1995",
+    "height": "181",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "副主任",
+    "socialLinks": {
+      "LINE": "kazubsk78",
+      "Instagram": "www.instagram.com/wZww.hajimedayo78/"
+    }
+  },
+  {
+    "staffNameEng": "渋谷",
+    "staffNameKana": "凰",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "175",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "代表",
+    "socialLinks": {
+      "Instagram": "www.instagram.com/shibuya_kou/"
+    },
+    "staffDescription": "俺で間違いない！"
+  },
+  {
+    "staffNameEng": "レイヤ",
+    "staffNameKana": "Reiya",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "170",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "副主任",
+    "socialLinks": {
+      "X": "twitter.com/hosuto090"
+    }
+  },
+  {
+    "staffNameEng": "ユアン",
+    "staffNameKana": "Yuan",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "170",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {
+      "X": "twitter.com/yuan_sinceyou",
+      "Instagram": "www.instagram.com/sinceyou_yuan/"
+    }
+  },
+  {
+    "staffNameEng": "美咲",
+    "staffNameKana": "輝",
+    "dobDay": "8",
+    "dobMonth": "11",
+    "dobYear": "1995",
+    "height": "172",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "取締役",
+    "socialLinks": {
+      "X": "twitter.com/a_b_c_1299",
+      "Instagram": "www.instagram.com/hikunda"
+    }
+  },
+  {
+    "staffNameEng": "刹那",
+    "staffNameKana": "Setsuna",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "178",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "支配人",
+    "socialLinks": {
+      "X": "twitter.com/totosan3215"
+    }
+  },
+  {
+    "staffNameEng": "鳳",
+    "staffNameKana": "信",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "175",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "CP",
+    "socialLinks": {
+      "X": "twitter.com/sinceyoua_shin",
+      "Instagram": "www.instagram.com/sinceyoua_shinotori/",
+      "TikTok": "www.tiktok.com/@sinceyoua_shinotori"
+    }
+  },
+  {
+    "staffNameEng": "道端ミチル",
+    "staffNameKana": "Michiru",
+    "dobDay": "14",
+    "dobMonth": "8",
+    "dobYear": "1998",
+    "height": "178",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "CP",
+    "socialLinks": {}
+  },
+  {
+    "staffNameEng": "SOL",
+    "staffNameKana": "Sol",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "175",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "幹部補佐",
+    "socialLinks": {}
+  }
+]

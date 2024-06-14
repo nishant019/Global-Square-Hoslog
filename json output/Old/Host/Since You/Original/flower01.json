@@ -1,0 +1,113 @@
+[
+  {
+    "staffName": "秋 Aki",
+    "dobDay": "15",
+    "dobMonth": "12",
+    "dobYear": "1995",
+    "height": "175",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "Producer",
+    "socialLinks": "\"X：\\ntwitter.com/aki_asakura6\"",
+    "folderName": "aki"
+  },
+  {
+    "staffName": "アルト Aruto",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "副主任",
+    "folderName": "aruto"
+  },
+  {
+    "staffName": "空斗 Sorato",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "支配人",
+    "folderName": "sorato"
+  },
+  {
+    "staffName": "ちょめ Chome",
+    "dobDay": "29",
+    "dobMonth": "11",
+    "dobYear": "1993",
+    "height": "170",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "position": "Director",
+    "socialLinks": "\"X：\\ntwitter.com/Sinceyou_ch\"",
+    "folderName": "chome"
+  },
+  {
+    "staffName": "帝雅 Taiga",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "position": "CP",
+    "folderName": "taiga"
+  },
+  {
+    "staffName": "桃李 Tori",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "folderName": "tori"
+  },
+  {
+    "staffName": "夏目永遠 Towa Natsume",
+    "dobDay": "31",
+    "dobMonth": "7",
+    "dobYear": "2000",
+    "height": "175",
+    "bloodGroup": "A+",
+    "consti": "さそり座",
+    "socialLinks": "\"LINE：\\nryo101812\\nX：\\ntwitter.com/R27726325\\nInstagram：\\nwww.instagram.com/towa_flower_00\"",
+    "folderName": "towa"
+  },
+  {
+    "staffName": "潤羽玲士 Reiji Ruha",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "folderName": "reiji"
+  },
+  {
+    "staffName": "かなた Kanata",
+    "dobDay": "9",
+    "dobMonth": "9",
+    "dobYear": "1995",
+    "height": "?",
+    "bloodGroup": "?+",
+    "consti": "さそり座",
+    "folderName": "kanata"
+  },
+  {
+    "staffName": "美麗 楓 Kaede Mirei",
+    "dobDay": "26",
+    "dobMonth": "1",
+    "dobYear": "1995",
+    "height": "174",
+    "bloodGroup": "AB+",
+    "consti": "さそり座",
+    "position": "CP",
+    "socialLinks": "\"Instagram：\\nwww.instagram.com/kaede.mirei\"",
+    "staffDescription": "東京に上京して来て0スタートなので支え合える姫募集中！ご指名ご来店お待ちしております",
+    "folderName": "kaede"
+  }
+]

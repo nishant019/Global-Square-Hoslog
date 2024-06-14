@@ -1,0 +1,110 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Test Results</title>
+            <style>
+                table {
+                    width: 100%;
+                    border-collapse: collapse;
+                }
+                th, td {
+                    padding: 8px;
+                    border-bottom: 1px solid #ddd;
+                    text-align: left;
+                }
+                th {
+                    background-color: #f2f2f2;
+                }
+                tr.failed {
+                    background-color: #FA8072;
+                }
+                .passed {
+                    color: green;
+                }
+                .failed {
+                    color: white;
+                }
+            </style>
+        </head>
+        <body>
+
+        <h2>Test Results</h2>
+        <h3>ForgotPasswordOTP Page</h3>
+        <table id="results-table">
+            <thead>
+                <tr>
+                    <th>Value</th>
+                    <th>Element</th>
+                    <th>Field</th>
+                    <th>Type</th>
+                    <th>Result</th>
+                </tr>
+            </thead>
+            <tbody>
+                
+        <tr class="passed">
+            <td class="passed">ご本人確認のお願い</td>
+            <td class="passed">.identification</td>
+            <td class="passed">Page title</td>
+            <td class="passed">innerText</td>
+            <td class="passed">passed</td>
+        </tr>
+    
+        <tr class="failed">
+            <td class="failed">宛にSMSを送信しました、メッセージに記載された
+6桁の数字を確認し、入力してくださいa</td>
+            <td class="failed">.displayMessage</td>
+            <td class="failed">OTP Message Info</td>
+            <td class="failed">innerText</td>
+            <td class="failed">failed</td>
+        </tr>
+    
+        <tr class="passed">
+            <td class="passed">認証コード</td>
+            <td class="passed">.inputContainer</td>
+            <td class="passed">OTP field</td>
+            <td class="passed">placeholder</td>
+            <td class="passed">passed</td>
+        </tr>
+    
+        <tr class="passed">
+            <td class="passed">戻る</td>
+            <td class="passed">.returnButton</td>
+            <td class="passed">Button text</td>
+            <td class="passed">innerText</td>
+            <td class="passed">passed</td>
+        </tr>
+    
+        <tr class="passed">
+            <td class="passed">次</td>
+            <td class="passed">#valCod</td>
+            <td class="passed">Button text</td>
+            <td class="passed">innerText</td>
+            <td class="passed">passed</td>
+        </tr>
+    
+        <tr class="passed">
+            <td class="passed">コードを取得できませんでしたか?</td>
+            <td class="passed">.accessCodeText</td>
+            <td class="passed">Didn’t Receive OTP message</td>
+            <td class="passed">innerText</td>
+            <td class="passed">passed</td>
+        </tr>
+    
+        <tr class="passed">
+            <td class="passed">新しいコードをリクエストする</td>
+            <td class="passed">#resend-verification-code</td>
+            <td class="passed">Resend Code Button</td>
+            <td class="passed">innerText</td>
+            <td class="passed">passed</td>
+        </tr>
+    
+            </tbody>
+        </table>
+
+        </body>
+        </html>
+    

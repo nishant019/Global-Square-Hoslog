@@ -1,0 +1,140 @@
+[
+  {
+      "staffNameEng": "＃まつしまなおや『全知全能』",
+      "staffNameKana": "Naoya",
+      "dobDay": "9",
+      "dobMonth": "9",
+      "dobYear": "1995",
+      "height": "189",
+      "bloodGroup": "O+",
+      "consti": "さそり座",
+      "position": "専務取締役／大谷翔平",
+      "socialLinks": {
+          "LINE": "otoko_matusima",
+          "X": "twitter.com/otoko_matusima",
+          "Instagram": "www.instagram.com/otoko_matusima/"
+      }
+  },
+  {
+      "staffNameEng": "君を愛す麻衣",
+      "staffNameKana": "Mai",
+      "dobDay": "23",
+      "dobMonth": "7",
+      "dobYear": "1995",
+      "height": "183",
+      "bloodGroup": "AB+",
+      "consti": "さそり座",
+      "position": "常務取締役",
+      "socialLinks": {
+          "LINE": "44hwx",
+          "X": "twitter.com/INAIIMIA",
+          "Instagram": "www.instagram.com/44hwx/"
+      }
+  },
+  {
+      "staffNameEng": "平",
+      "staffNameKana": "恭平",
+      "dobDay": "9",
+      "dobMonth": "9",
+      "dobYear": "1995",
+      "height": "165",
+      "bloodGroup": "O+",
+      "consti": "さそり座",
+      "position": "主任"
+  },
+  {
+      "staffNameEng": "一輝（ほんまにピッピッピー！）",
+      "staffNameKana": "Ikki",
+      "dobDay": "1",
+      "dobMonth": "6",
+      "dobYear": "2000",
+      "height": "2525",
+      "bloodGroup": "O+",
+      "consti": "さそり座",
+      "position": "副主任",
+      "socialLinks": {
+          "LINE": "happy666111",
+          "X": "twitter.com/iiiiikkiiikun",
+          "Instagram": "www.instagram.com/pp.iiikkikun61"
+      }
+  },
+  {
+      "staffNameEng": "みずきんぐ",
+      "staffNameKana": "Mizuking",
+      "dobDay": "9",
+      "dobMonth": "9",
+      "dobYear": "1995",
+      "height": "177",
+      "bloodGroup": "O+",
+      "consti": "さそり座",
+      "position": "副主任",
+      "socialLinks": {
+          "X": "twitter.com/mizuking_",
+          "Instagram": "www.instagram.com/mizking_official"
+      },
+      "staffDescription": "対戦よろしくお願いします"
+  },
+  {
+      "staffNameEng": "大和",
+      "staffNameKana": "Yamato",
+      "dobDay": "2",
+      "dobMonth": "2",
+      "dobYear": "1995",
+      "height": "165",
+      "bloodGroup": "O+",
+      "consti": "さそり座"
+  },
+  {
+      "staffNameEng": "朝日奈",
+      "staffNameKana": "楓",
+      "dobDay": "21",
+      "dobMonth": "9",
+      "dobYear": "2002",
+      "height": "161",
+      "bloodGroup": "O+",
+      "consti": "さそり座",
+      "socialLinks": {
+          "LINE": "iikanzinomainiti",
+          "X": "twitter.com/@by_acqua0921",
+          "Instagram": "www.instagram.com/@kaede__0.921"
+      }
+  },
+  {
+      "staffNameEng": "海人",
+      "staffNameKana": "Kaito",
+      "dobDay": "9",
+      "dobMonth": "9",
+      "dobYear": "1995",
+      "height": "165",
+      "bloodGroup": "A+",
+      "consti": "さそり座",
+      "socialLinks": {
+          "Instagram": "www.instagram.com/Kaito_victors"
+      }
+  },
+  {
+      "staffNameEng": "うるは海",
+      "staffNameKana": "Kai",
+      "dobDay": "9",
+      "dobMonth": "9",
+      "dobYear": "1995",
+      "height": "165",
+      "bloodGroup": "A+",
+      "consti": "さそり座",
+      "position": "幹部補佐"
+  },
+  {
+      "staffNameEng": "優雪",
+      "staffNameKana": "Yuki",
+      "dobDay": "9",
+      "dobMonth": "9",
+      "dobYear": "1995",
+      "height": "181",
+      "bloodGroup": "O+",
+      "consti": "さそり座",
+      "socialLinks": {
+          "X": "twitter.com/yuki_victors",
+          "Instagram": "www.instagram.com/yuki_victors"
+      }
+  }
+]
