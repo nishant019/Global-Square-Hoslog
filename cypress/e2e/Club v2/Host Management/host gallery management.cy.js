@@ -60,9 +60,7 @@ describe("Gallery management", () => {
 
                             }
                     });
-
-                    // cy.get('[data-e2e="release"]').click().wait(1000)
-
+                    cy.get('[data-e2e="release"]').click().wait(1000)
                 }
 
 
