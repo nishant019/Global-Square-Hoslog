@@ -4,7 +4,7 @@ describe('Registers Hosts', () => {
 
     const filePath = 'club_creds/uat Clubs/Credentials'
     const clubName = 'Moment Club'
-    const hostFilePath = ['Excel Files/Club Data/Host Data/Host Data', 'Sheet1', 0]
+    const hostFilePath = [`Excel Files/Club Data/Host Data/Host Data`, clubName, 0]
 
     cy.fixture(filePath).then(clubCreds => {
       let clubData
