@@ -28,7 +28,7 @@ module.exports = defineConfig({
             }
           });
         },
-        
+
         listFixturesFolder({ filePath }) {
           const fixturesFolderPath = path.join(__dirname, 'cypress', 'fixtures', filePath);
           return new Promise((resolve, reject) => {
@@ -40,7 +40,7 @@ module.exports = defineConfig({
             });
           });
         },
-        
+
         readFileSync(folderPath) {
           try {
             const contents = fs.readdirSync(folderPath);
@@ -48,6 +48,22 @@ module.exports = defineConfig({
           } catch (error) {
             return error.toString();
           }
+        },
+
+        readFolder(folderPath) {
+          return new Promise((resolve) => {
+            if (!folderPath) {
+              resolve({ error: 'Folder path is empty or not provided' });
+              return;
+            }
+            fs.readdir(folderPath, (err, files) => {
+              if (err) {
+                resolve({ error: `Folder not found or an error occurred: ${err.message}` });
+              } else {
+                resolve({ files });
+              }
+            });
+          });
         },
 
         readXlsx: readXlsx.read

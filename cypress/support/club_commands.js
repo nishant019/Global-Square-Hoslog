@@ -267,6 +267,24 @@ Cypress.Commands.add("clubRegPage3", (tableData) => {
     cy.get('[type="file"]').eq(0).selectFile(`${tableData.idBackFileLocation}`, { force: true }).wait(1000)
 })
 
+
+
+
+Cypress.Commands.add("clubRegistration", (tableData) => {
+
+    cy.clubRegPage1(tableData)
+    cy.get('button').contains('契約者情報の入力へ').should("be.visible").click().wait(500)
+
+    cy.clubRegPage2(tableData)
+    cy.get('button').contains('本人確認書類のアップロードへ').should("be.visible").click().wait(500)
+
+    cy.clubRegPage3(tableData)
+    cy.get('button').contains('ホスログへの店舗掲載を申請する').should("be.visible").click().wait(2000)
+
+    //Success Page Buttton
+    cy.get('button').contains('契約者情報の入力へ').should("be.visible").click().wait(500)
+})
+
 Cypress.Commands.add("setClubDetails", (tableData) => {
     cy.get('button').contains('続行').should("be.visible").click().wait(1000);
     cy.clubDetailsUpdate(tableData)
@@ -338,6 +356,77 @@ Cypress.Commands.add('writeHostClubDescription', (values, outputSelector, descri
 
     // Write the description to the specified output location
     cy.get(outputSelector).clear().type(description);
+});
+
+Cypress.Commands.add("uploadGallery", (env, imageLocation, fileName) => {
+    cy.visit(Cypress.env(env).clubUrl + '/media').wait(3000);
+
+    // Check for folder name; if it doesn't exist, create the folder
+    cy.get('body').then($body => {
+        const elementsContainingText = $body.find('*').filter((index, element) => {
+            return Cypress.$(element).text().includes(fileName);
+        });
+
+        if (elementsContainingText.length > 0) {
+            // Folder exists; navigate to it
+            cy.get('.css-tjq8tt').contains(fileName).click();
+            cy.get('.css-pcwo9u').contains(fileName).click();
+        } else {
+            // Folder doesn't exist; create it
+            cy.log(`No elements found with text "${fileName}"`);
+
+            cy.get('.css-wuwme8').click();
+            cy.typeText([
+                ['[name="FolderName"]', fileName, 0, ''],
+                ['[name="LabelName"]', fileName, 0, '']
+            ]);
+            cy.get('button').contains("追加").click().wait(1000);
+
+            cy.visit(Cypress.env(env).clubUrl + '/media').wait(2000);
+
+            // cy.dropdown([
+            //     ['[name="selectFolder"]', fileName, 0, ''],
+            //     ['[name="selectLabel"]', fileName, 0, ''],
+
+            // ])
+
+            // cy.get('button').contains("追加").click().wait(1000);
+            cy.get('.css-tjq8tt').contains(fileName).click();
+            cy.get('.css-pcwo9u').contains(fileName).click();
+            cy.get('.chakra-button').click().wait(2000)
+
+        }
+
+        //         // Upload gallery images
+        cy.getFolderContents(imageLocation).then((files) => {
+            if (files) {
+                files.forEach(file => {
+
+                    const fullImgLoc = imageLocation + '/' + file
+                    cy.get('[type="file"]').eq(0).selectFile(fullImgLoc, { force: true }).wait(1000);
+                    cy.typeText([
+                        ['[name="titleImage"]', Cypress._.random(99999999999, 9999999999999999).toString(), 0, ''],
+                    ]);
+                    cy.get('button').contains("保存").click().wait(3000);
+                })
+
+            }
+        });
+
+
+
+    });
+
+})
+
+Cypress.Commands.add('getFolderContents', (folderPath) => {
+    cy.task('readFolder', folderPath).then((result) => {
+        if (result.error) {
+            cy.log(`Error: ${result.error}`);
+        } else {
+            return result.files
+        }
+    });
 });
 
 

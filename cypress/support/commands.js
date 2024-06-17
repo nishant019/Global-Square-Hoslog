@@ -265,12 +265,12 @@ Cypress.Commands.add('extractJapaneseText', (text) => {
 
 
 // cypress/support/commands.js
-Cypress.Commands.add('adminLogin', (envName) => {
+Cypress.Commands.add('adminLogin', (envName,adminUser,adminPassword) => {
     cy.session('login', () => {
 
         cy.visit(Cypress.env(envName).adminUrl)
-        cy.get('#Username').type('superadmin');
-        cy.get('#Password').type('Test@123');
+        cy.get('#Username').type(Cypress.env(envName).adminLogin);
+        cy.get('#Password').type(Cypress.env(envName).adminPassword);
         cy.get('.btn').click().wait(1000);
     })
     cy.visit(Cypress.env(envName).adminUrl)
