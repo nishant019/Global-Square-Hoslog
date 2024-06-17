@@ -23,7 +23,7 @@ describe("Gallery management", () => {
 
         cy.readXlsx(hostFilePath[0], hostFilePath[1], hostFilePath[2]).then(hostDetails => {
 
-            hostDetails.slice(0, 1).forEach(hostData => {
+            hostDetails.forEach(hostData => {
                 const imageLocation = hostData.GalleryImageList + '/' + clubName + '/' + hostData.hostName
                 cy.uploadGallery(env,imageLocation, hostData.hostName)
             });

@@ -24,7 +24,7 @@ describe("Gallery management", () => {
         cy.viewport(1080, 720)
         cy.readXlsx('Excel Files/Club Data/ClubData', 'Sheet1', 7).then(clubData => {
             cy.wait(1000)
-            clubData.slice(0, 1).forEach(club => {
+            clubData.forEach(club => {
                 // const imageLocation = club.GalleryImageList.replace('{{club_name}}', clubName).replace('{{host_name}}', club.hostName)
 
                 if (club.clubNameEng === clubName) {

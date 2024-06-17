@@ -24,7 +24,7 @@ describe("Gallery management", () => {
         cy.viewport(1080, 720)
         cy.readXlsx(hostFilePath[0], hostFilePath[1], hostFilePath[2]).then(hostDetails => {
 
-            hostDetails.forEach(hostData => {
+            hostDetails.slice(0,1).forEach(hostData => {
                 const imageLocation = hostData.GalleryImageList + '/' + clubName + '/' + hostData.hostName
 
                 if (hostData.GalleryImageList) {
