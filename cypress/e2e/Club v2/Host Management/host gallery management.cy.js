@@ -2,29 +2,27 @@ describe("Gallery management", () => {
     const env = "uat";
     const clubName = 'Galaxy Club';
 
-    const hostFilePath = ['Excel Files/Club Data/Host Data/Host Data', clubName, 0];
+    const hostFilePath = 'Excel Files/Club Data/Host Data/Host Data';
     const filePath = 'club_creds/uat Clubs/Credentials';
-    before("Login to club", () => {
 
-
-        cy.fixture(filePath).then(clubCreds => {
-            let clubData;
-            for (let i = 0; i < clubCreds.length; i++) {
-                clubData = clubCreds[i];
-
-                if (clubData.clubName === clubName) {
-                    cy.clubLogin(clubData.server, clubData.userName, clubData.password);
-                    break;
-                }
-            }
-        });
-    });
+    const startIndex = 0
+    const endIndex = ''
 
     it("Manage gallery", () => {
         cy.viewport(1080, 720)
-        cy.readXlsx(hostFilePath[0], hostFilePath[1], hostFilePath[2]).then(hostDetails => {
-
-            hostDetails.slice(0,1).forEach(hostData => {
+        cy.readXlsx(hostFilePath, clubName, startIndex,endIndex).then(hostDetails => {
+            cy.fixture(filePath).then(clubCreds => {
+                let clubData;
+                for (let i = 0; i < clubCreds.length; i++) {
+                    clubData = clubCreds[i];
+    
+                    if (clubData.clubName === clubName) {
+                        cy.clubLogin(clubData.server, clubData.userName, clubData.password);
+                        break;
+                    }
+                }
+            });
+            hostDetails.forEach(hostData => {
                 const imageLocation = hostData.GalleryImageList + '/' + clubName + '/' + hostData.hostName
 
                 if (hostData.GalleryImageList) {
@@ -36,8 +34,7 @@ describe("Gallery management", () => {
 
                     cy.getFolderContents(imageLocation).then((files) => {
 
-
-                            if (files) {
+                            if (files.length > 0) {
                                 cy.get('.css-9p04zo').eq(0).click()
                                 cy.get('.css-9p04zo').eq(0).click()
         

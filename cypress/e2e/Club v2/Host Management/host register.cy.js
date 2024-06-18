@@ -4,8 +4,9 @@ describe('Registers Hosts', () => {
 
     const filePath = 'club_creds/uat Clubs/Credentials'
     const clubName = 'Galaxy Club'
-    const hostFilePath = [`Excel Files/Club Data/Host Data/Host Data`, clubName, 0]
-
+    const hostFilePath = `Excel Files/Club Data/Host Data/Host Data`
+    const startIndex = 0
+    const endIndex = ''
     cy.fixture(filePath).then(clubCreds => {
       let clubData
       for (let i = 0; i < clubCreds.length; i++) {
@@ -17,7 +18,7 @@ describe('Registers Hosts', () => {
         }
       }
 
-      cy.readXlsx(hostFilePath[0], hostFilePath[1], hostFilePath[2]).then(hostDetails => {
+      cy.readXlsx(hostFilePath, clubName, startIndex, endIndex).then(hostDetails => {
 
         hostDetails.forEach(hostData => {
           cy.visit(`${Cypress.env(clubData.server).clubUrl}/add-staff`).wait(2000)

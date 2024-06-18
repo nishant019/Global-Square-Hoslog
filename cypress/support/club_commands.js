@@ -326,9 +326,9 @@ Cypress.Commands.add("clubDetailsUpdate", (tableData) => {
 
 
     ]);
+    const description = "ついに「{{clubNameEng}}」が登場しました☆ 説明は不要です！このプロフェッショナル集団は、熟練のホストから若きカリスマまで、多彩な才能が揃っています。彼らの高い接客スキルは、一度体験する価値がありますよ！"
 
-
-    cy.writeHostClubDescription(tableData, '[name="description"]', `${tableData.description}`)
+    cy.writeHostClubDescription(tableData, '[name="description"]', `${description}`)
 
     cy.dropdown([
         ['[name="workingHoursFrom"]', `${tableData.workingHoursFrom}`, ''],
@@ -353,9 +353,9 @@ Cypress.Commands.add('writeHostClubDescription', (values, outputSelector, descri
         const placeholder = `{{${key}}}`;
         description = description.replace(new RegExp(placeholder, 'g'), values[key]);
     }
-
+    cy.log(description)
     // Write the description to the specified output location
-    cy.get(outputSelector).clear().type(description);
+    // cy.get(outputSelector).clear().type(description);
 });
 
 Cypress.Commands.add("uploadGallery", (env, imageLocation, fileName) => {

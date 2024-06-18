@@ -2,10 +2,11 @@ describe("Gallery management", () => {
     const env = "uat";
     const clubName = 'Galaxy Club';
 
-    const hostFilePath = ['Excel Files/Club Data/Host Data/Host Data', clubName, 0];
+    const hostFilePath = 'Excel Files/Club Data/Host Data/Host Data'
     const filePath = 'club_creds/uat Clubs/Credentials';
-    before("Login to club", () => {
-
+    const startIndex = 0
+    const endIndex = ''
+    it("Manage gallery", () => {
         cy.fixture(filePath).then(clubCreds => {
             let clubData;
             for (let i = 0; i < clubCreds.length; i++) {
@@ -13,21 +14,20 @@ describe("Gallery management", () => {
 
                 if (clubData.clubName === clubName) {
                     cy.clubLogin(clubData.server, clubData.userName, clubData.password);
-                    break; // Break the loop when the condition matches
+
+                    cy.readXlsx(hostFilePath, clubName, startIndex, endIndex).then(hostDetails => {
+
+                        hostDetails.forEach(hostData => {
+                            const imageLocation = hostData.GalleryImageList + '/' + clubData.clubName + '/' + hostData.hostName
+                            cy.uploadGallery(env,imageLocation, hostData.hostName)
+                        });
+            
+                    });
                 }
+
             }
         });
-    });
 
-    it("Manage gallery", () => {
 
-        cy.readXlsx(hostFilePath[0], hostFilePath[1], hostFilePath[2]).then(hostDetails => {
-
-            hostDetails.forEach(hostData => {
-                const imageLocation = hostData.GalleryImageList + '/' + clubName + '/' + hostData.hostName
-                cy.uploadGallery(env,imageLocation, hostData.hostName)
-            });
-
-        });
     });
 })
