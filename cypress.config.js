@@ -66,7 +66,19 @@ module.exports = defineConfig({
           });
         },
 
-        readXlsx: readXlsx.read
+        createFolder(folderPath) {
+          return new Promise((resolve) => {
+            fs.mkdir(folderPath, { recursive: true }, (err) => {
+              if (err) {
+                resolve({ error: err.message });
+              } else {
+                resolve({ success: true });
+              }
+            });
+          });
+        },
+        readXlsx: readXlsx.read,
+
       });
 
       return config;

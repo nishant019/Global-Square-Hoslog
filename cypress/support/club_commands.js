@@ -419,6 +419,29 @@ Cypress.Commands.add("uploadGallery", (env, imageLocation, fileName) => {
 
 })
 
+Cypress.Commands.add("CreateImagePath", (galleryPath) => {
+
+
+
+    cy.task('readFolder', galleryPath).then((result) => {
+        if (result.error) {
+            cy.task('createFolder', galleryPath).then((createResult) => {
+                if (createResult.error) {
+                    cy.log(`Error: ${createResult.error}`);
+                } else {
+                    cy.log(`Folder created: ${galleryPath}`);
+                }
+            });
+        } else {
+            return result.files;
+        }
+    });
+
+
+
+
+})
+
 Cypress.Commands.add('getFolderContents', (folderPath) => {
     cy.task('readFolder', folderPath).then((result) => {
         if (result.error) {
