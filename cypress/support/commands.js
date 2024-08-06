@@ -1,6 +1,9 @@
 const path = require('path');
 const fs = require('fs')
-import('./club_commands')
+import('./admin/custom_commands')
+import('./club/custom_commands')
+import('./club/registration_commands') 
+import('./external_commands/ext_commands')
 
 Cypress.on('uncaught:exception', (err, runnable) => {
     return false
@@ -53,8 +56,6 @@ Cypress.Commands.add("readXlsx", (inputFile, sheetName, startIndex,maxRow  ) => 
     });
 });
 
-
-
 Cypress.Commands.add('checkTextWithAttributes', (filename) => {
     let results = [];
 
@@ -88,9 +89,6 @@ Cypress.Commands.add('checkTextWithAttributes', (filename) => {
         });
     });
 });
-
-
-
 
 Cypress.Commands.add('highlightElement', { prevSubject: true }, ($element) => {
     cy.wrap($element).should('be.visible').then(($el) => {

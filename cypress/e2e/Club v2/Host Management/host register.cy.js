@@ -3,7 +3,7 @@ describe('Registers Hosts', () => {
   it('Get Registered Club Data & Register Host', () => {
 
     const filePath = 'club_creds/uat Clubs/Credentials'
-    const clubName = 'Galaxy Club'
+    const clubName = 'Eclipse Club'
     const hostFilePath = `Excel Files/Club Data/Host Data/Host Data`
     const startIndex = 0
     const endIndex = ''
@@ -20,7 +20,7 @@ describe('Registers Hosts', () => {
 
       cy.readXlsx(hostFilePath, clubName, startIndex, endIndex).then(hostDetails => {
 
-        hostDetails.forEach(hostData => {
+        hostDetails.slice(2).forEach(hostData => {
           cy.visit(`${Cypress.env(clubData.server).clubUrl}/add-staff`).wait(2000)
 
           // if (hostData.logoPath) {

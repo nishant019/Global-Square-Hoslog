@@ -1,8 +1,8 @@
 describe("Gallery management", () => {
     const env = "uat";
     const filePath = 'club_creds/uat Clubs/Credentials';
-    const startIndex = 0
-    const endIndex = ''
+    const startIndex = 6
+    const endIndex = 7
     it("Manage gallery", () => {
         cy.viewport(1080, 720);
 
