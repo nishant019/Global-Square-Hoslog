@@ -40,7 +40,7 @@ Cypress.Commands.add("clubRegPage1", (tableData) => {
 
 Cypress.Commands.add("clubRegPage2", (tableData) => {
     if (`${tableData.businessType}` === 'co') {
-        cy.get('[name="BusinessType"]').eq(1).check({ force: true }).wait(500)
+        cy.get('[value="V0fYse8YDbN8ArrTKmOvWg77tt4yh788qqw77tt4yh788qqw"]').eq(0).check({ force: true }).wait(500)
 
         cy.typeText([
             ['[data-e2e="CompanyName"]', `${tableData.companyName}`, 1, ''],
@@ -48,7 +48,7 @@ Cypress.Commands.add("clubRegPage2", (tableData) => {
         ])
 
     } else {
-        cy.get('[name="BusinessType"]').eq(0).check({ force: true })
+        cy.get('[value="wzaZArKSIAk3xrXTPJnZlw77tt4yh788qqw77tt4yh788qqw"]').eq(1).check({ force: true }).wait(500)
     }
 
     cy.typeText([
