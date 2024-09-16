@@ -1,93 +1,56 @@
 describe("Gallery management", () => {
     const env = "uat";
     const filePath = 'club_creds/uat Clubs/Credentials';
-    const startIndex = 6
-    const endIndex = 7
+
+
     it("Manage gallery", () => {
-        // cy.viewport(1080, 720);
+        cy.readXlsx('Excel Files/Club Data/ClubData', 'Sheet1').then(clubData => {
+            clubData.forEach(club => {
+                if (club.fillData === true) {
+                    cy.fixture(filePath).then(clubCreds => {
+                        clubCreds.forEach(loginData => {
+                            if (club.clubNameEng === loginData.clubName) {
 
-        cy.fixture(filePath).then(clubCreds => {
-            clubCreds.slice(startIndex, endIndex).forEach(loginData => {
-                cy.clearCacheData()
+                                cy.clubLogin(loginData.server, loginData.userName, loginData.password);
 
-                cy.clubLogin(loginData.server, loginData.userName, loginData.password);
+                                cy.wait(1000);
+                                const fileName = "Gallery";
 
-                cy.readXlsx('Excel Files/Club Data/ClubData', 'Sheet1', startIndex, endIndex).then(clubData => {
-                    cy.wait(1000);
-                    clubData.slice(startIndex, endIndex).forEach(club => {
+                                const imageLocation = `${club.gallery}/${loginData.clubName}/Gallery`;
 
-                        const imageLocation = `${club.gallery}/${club.clubNameEng}/Gallery`;
+                                cy.getFolderContents(imageLocation).then(files => {
+                                    if (files) {
+                                        cy.visit(Cypress.env(env).clubUrl + '/owner/cp/information').wait(2000);
+                                        cy.contains('基本情報').click().wait(2000);
 
-                        cy.getFolderContents(imageLocation).then(files => {
+                                        for (let i = 0; i < files.length; i++) {
+                                            let file = files[i].toLowerCase();
 
-                            cy.log("filesmanagement",files)
-                            if (files) {
-                                cy.visit(Cypress.env(env).clubUrl + '/storeinformation').wait(1000);
-                                cy.contains('基本情報').click().wait(1000);
-                                let logoUploaded = false;
-                                let bannerUploaded = false;
+                                            if (file.toLowerCase().includes("logo")) {
+                                                cy.get('circle').eq(1).click({ force: true });
+                                                cy.get('.css-yxkgyx').eq(0).click().wait(1000);
+                                                cy.galleryPopup(clubData, loginData, fileName, "logo")
 
+                                            }
+                                            if (file.toLowerCase().includes("banner")) {
+                                                cy.get('circle').eq(0).click({ force: true });
+                                                cy.get('.css-5rw5ap').eq(0).click().wait(1000);
+                                                cy.galleryPopup(clubData, loginData, fileName, "Banner")
+                                            }
+                                        }
+                                        cy.get('.chakra-button').click().wait(3000)
 
-                                for (let i = 0; i < files.length; i++) {
-                                    let file = files[i].toLowerCase();
-                                    cy.log(!logoUploaded && file.includes("logo"))
-                                    if (!logoUploaded && file.includes("logo")) {
-                                        logoUploaded = true;
-                                        cy.get('circle').eq(1).click({ force: true });
-                                        cy.get('.css-yxkgyx').eq(0).click().wait(1000)
+                                        cy.contains('店舗写真').click().wait(2000);
 
-                                        // cy.get('[type="file"]').eq(0).selectFile(`${imageLocation}/${file}`, { force: true }).wait(1000);
-                                        // cy.get('.css-39tpl5 > .chakra-button').click().wait(1000);
-                                    } 
-                                    // else {
-                                    //     logoUploaded = true;
-
-                                    //     cy.get('circle').eq(1).click({ force: true });
-                                    //     cy.get('[type="file"]').eq(0).selectFile(`${imageLocation}/${files[0]}`, { force: true }).wait(1000);
-                                    //     cy.get('.css-39tpl5 > .chakra-button').click().wait(1000);
-                                    // }
-
-                                    // if (!bannerUploaded && file.includes("banner")) {
-                                    //     bannerUploaded = true;
-                                    //     cy.get('circle').eq(0).click({ force: true });
-                                    //     cy.get('[type="file"]').eq(0).selectFile(`${imageLocation}/${file}`, { force: true }).wait(1000);
-                                    //     cy.get('.css-39tpl5 > .chakra-button').click().wait(1000);
-                                    // } else {
-                                    //     bannerUploaded = true;
-                                    //     cy.get('circle').eq(0).click({ force: true });
-                                    //     cy.get('[type="file"]').eq(0).selectFile(`${imageLocation}/${files[0]}`, { force: true }).wait(1000);
-                                    //     cy.get('.css-39tpl5 > .chakra-button').click().wait(1000);
-                                    // }
-
-                                    // cy.get('.chakra-button').click().wait(5000);
-
-                                    if (logoUploaded) {
-                                        break;
-                                    } else if (bannerUploaded) {
-                                        break;
+                                        cy.get('.css-pllhgn').click()
                                     }
-                                }
-
-                                // cy.visit(Cypress.env(env).clubUrl + '/storeinformation').wait(1000);
-                                // cy.contains('店舗写真').click().wait(1000);
-
-                                // files.forEach((file, index) => {
-                                //     cy.get('.css-pllhgn').click().wait(1000);
-
-                                //     cy.get('.css-q18k4l').eq(0).contains("Gallery").click({ force: true });
-                                //     cy.get('.css-pcwo9u').contains("Gallery").click();
-
-                                //     cy.get('.css-ygtapu').eq(index).click().wait(500);
-                                //     cy.get('.css-wjnxbe > .css-145ers9').click().wait(1000);
-                                // });
-
-                                // cy.get('[data-e2e="release"]').click({ force: true });
+                                })
                             }
-                        });
-
-                    });
-                });
+                        })
+                    })
+                }
             });
         });
     });
 });
+

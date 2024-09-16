@@ -1,10 +1,29 @@
 Cypress.Commands.add('approveClub', (env, tableData) => {
+    cy.visit(Cypress.env(env).adminUrl)
+    cy.log(tableData)
     cy.adminLogin(env)
     cy.visit(Cypress.env(env).adminUrl + '/ClubManagement/ClubList')
     cy.get('#tab2Link').click()
+    
+    // Search for the club by English name
     cy.get('#default-search-pending').type(`${tableData.clubNameEng}{enter}`)
-    cy.get('#table-id > tbody svg').eq(0).click()
+
+    // Clicking the first club in the table
+    cy.get('#table-id > tbody svg').eq(0).click().wait(500)
+
+    // Intercept the request that will reload on approve
+    cy.intercept('GET', '**/ClubManagement/ClubList*').as('clubListReload')
+
+    // Click approve button
+    cy.get('#approve_id').click()
+
+    // Wait for the search request or reload after approve
+    cy.wait('@clubListReload').then(() => {
+        cy.log('Club approved and list reloaded successfully.')
+    })
 })
+
+
 
 Cypress.Commands.add('clubManagement', (env, clubName, action) => {
     cy.adminLogin(env);

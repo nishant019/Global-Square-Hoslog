@@ -37,24 +37,15 @@ Cypress.Commands.add("readXlsx", (inputFile) => {
     return cy.task('readXlsx', { filePath: inputFile })
 });
 
-Cypress.Commands.add("readXlsx", (inputFile, sheetName, startIndex,maxRow  ) => {
+Cypress.Commands.add("readXlsx", (inputFile, sheetName) => {
     return cy.task('readXlsx', {
         file: `cypress/fixtures/${inputFile}.xlsx`,
         sheet: sheetName
     }).then((rows) => {
-        let maxRows = maxRow > 0 ? maxRow : rows.length;
-        // Adjust startIndex if it's out of bounds
-        if (startIndex < 0) startIndex = 0;
-        if (startIndex >= rows.length) startIndex = rows.length - 1;
-
-        // Adjust maxRows if it exceeds available rows from the startIndex
-        if ((startIndex + maxRows) > rows.length) {
-            maxRows = rows.length - startIndex;
-        }
-
-        return rows.slice(startIndex, startIndex + maxRows);
+        return rows; // Simply return all rows without any slicing or limiting logic
     });
 });
+
 
 Cypress.Commands.add('checkTextWithAttributes', (filename) => {
     let results = [];
@@ -223,20 +214,12 @@ Cypress.Commands.add('removeSp', (str) => {
     return result;
 });
 
-
-
-
-
-
-
 Cypress.Commands.add('removeJapaneseOnly', (str) => {
     let result = str.replace(/[^A-Za-z0-9\s]/g, '').trim();
 
 
     return result;
 })
-
-
 
 // cypress/support/commands.js
 
@@ -257,10 +240,6 @@ Cypress.Commands.add('extractJapaneseText', (text) => {
     }
     return { japanese, english };
 });
-
-
-
-
 
 // cypress/support/commands.js
 Cypress.Commands.add('adminLogin', (envName,adminUser,adminPassword) => {
@@ -311,3 +290,18 @@ Cypress.Commands.add('imageDownload', (fixture) => {
 
 
 
+// cypress/support/commands.js
+
+Cypress.Commands.add('RespScreenshot', (fileName) => {
+    const viewports = [
+      { device: 'iPhone 6', width: 375, height: 667 },
+      { device: 'iPad', width: 768, height: 1024 },
+      { device: 'PC', width: 1280, height: 720 }
+    ];
+  
+    viewports.forEach((viewport) => {
+      cy.viewport(viewport.width, viewport.height);
+      cy.screenshot(`${fileName}-${viewport.device}`);
+    });
+  });
+  

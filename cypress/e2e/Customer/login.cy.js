@@ -1,10 +1,17 @@
 describe('Login Customer', () => {
+
     it('Logins Customer', () => {
-        cy.viewport('iphone-6');
+        const env = 'uat'
+        cy.viewport('iphone-x');
         cy.log('Visiting the URL');
 
-        cy.visit(Cypress.env('customer') + '/Home/Index');
-        cy.checkTextWithAttributes('Login')
+        cy.visit(Cypress.env(env).customerUrl + 'login');
+        // cy.checkTextWithAttributes('Login')
+        cy.typeText([
+            ['#LoginId', 'cure', 1, ''],
+            ['#Password', 'Test@123', 1, '']
+        ])
+        cy.get('#FormSubmit').click()
     })
 
 })

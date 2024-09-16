@@ -6,7 +6,7 @@ Cypress.Commands.add('clubLogin', (env, username, password) => {
     ]);
 
     cy.get('button').contains('ログイン').should('be.visible').click();
-    cy.url().should('not.include', '/auth/login');
+    cy.url().should('not.include', '/login');
 });
 
 Cypress.Commands.add('setNewPassword', (password) => {
@@ -24,7 +24,7 @@ Cypress.Commands.add("clubRegPage1", (tableData) => {
     cy.typeText([
         ['[data-e2e="clubName"]', `${tableData.clubNameEng}`, 1, ''],
         ['[data-e2e="ClubNameKatakana"]', `${tableData.clubNameKatakana}`, 1, ''],
-        ['[data-e2e="English"]', `${tableData.english}`, 1, ''],
+        // ['[data-e2e="English"]', `${tableData.english}`, 1, ''],
         ['[data-e2e="GroupName"]', `${tableData.groupName}`, 1, ''],
         ['[data-e2e="postalcode"]', `${tableData.postalCode}`, 1, ''],
         ['[data-e2e="City"]', `${tableData.city}`, 1, ''],
@@ -40,7 +40,7 @@ Cypress.Commands.add("clubRegPage1", (tableData) => {
 
 Cypress.Commands.add("clubRegPage2", (tableData) => {
     if (`${tableData.businessType}` === 'co') {
-        cy.get('[name="BusinessType"]').eq(0).check({ force: true }).wait(500)
+        cy.get('[name="BusinessType"]').eq(1).check({ force: true }).wait(500)
 
         cy.typeText([
             ['[data-e2e="CompanyName"]', `${tableData.companyName}`, 1, ''],
@@ -48,7 +48,7 @@ Cypress.Commands.add("clubRegPage2", (tableData) => {
         ])
 
     } else {
-        cy.get('[name="BusinessType"]').eq(1).check({ force: true })
+        cy.get('[name="BusinessType"]').eq(0).check({ force: true })
     }
 
     cy.typeText([
@@ -57,6 +57,7 @@ Cypress.Commands.add("clubRegPage2", (tableData) => {
         ['[data-e2e="MobileNumber"]', `${tableData.mobile}`, 1, ''],
         ['[data-e2e="Email"]', `${tableData.email}`, 1, ''],
     ])
+    cy.screenshot('Club Registration/Page 2');
 
 })
 
@@ -69,21 +70,38 @@ Cypress.Commands.add("clubRegPage3", (tableData) => {
     }
     cy.get('[type="file"]').eq(0).selectFile(`${tableData.idFrontFileLocation}`, { force: true }).wait(1000)
     cy.get('[type="file"]').eq(0).selectFile(`${tableData.idBackFileLocation}`, { force: true }).wait(1000)
+
+    cy.get('.chakra-checkbox__control').click().wait(1000)
+
 })
 
-Cypress.Commands.add("clubRegistration", (tableData) => {
+Cypress.Commands.add("clubRegistration", (env, tableData) => {
+
+
+
+    cy.visit(Cypress.env(env).clubUrl + '/register/')
+
+    cy.intercept('POST', '/gateway/identity/connect/token').as('connectToken')
+    cy.wait('@connectToken')
 
     cy.clubRegPage1(tableData)
+    cy.RespScreenshot('Registration/clubRegPage1')
     cy.get('button').contains('契約者情報の入力へ').should("be.visible").click().wait(500)
 
     cy.clubRegPage2(tableData)
+    cy.RespScreenshot('Registration/clubRegPage2')
     cy.get('button').contains('本人確認書類のアップロードへ').should("be.visible").click().wait(500)
 
     cy.clubRegPage3(tableData)
-    cy.get('button').contains('ホスログへの店舗掲載を申請する').should("be.visible").click().wait(2000)
+    cy.RespScreenshot('Registration/clubRegPage3')
+    cy.intercept('POST', '/gateway/identity/ClubAccount/Register').as('register');
 
-    //Success Page Buttton
-    cy.get('button').contains('続けて別の店舗掲載を申請する').should("be.visible").click().wait(500)
+
+
+    cy.get('button').contains('ホスログへの店舗掲載を申請する').should("be.visible").click()
+
+    cy.wait('@register')
+    cy.RespScreenshot('Registration/Success Page')
 })
 
 Cypress.Commands.add('setClubCreds', (env, tableData) => {
@@ -92,7 +110,6 @@ Cypress.Commands.add('setClubCreds', (env, tableData) => {
     cy.visit(Cypress.env(env).adminUrl + '/EmailLog')
     cy.get('tbody td').eq(2).then(e => {
         const Email = e[0].innerText;
-
         let uNameRegex = /店舗ID：([^\s]+)/;
         let passwordRegex = /仮パスワード：([^\s]+)/;
         let usernameMatch = Email.match(uNameRegex);
@@ -100,13 +117,9 @@ Cypress.Commands.add('setClubCreds', (env, tableData) => {
 
         let username = usernameMatch ? usernameMatch[1] : "Username not found";
         let password = passwordMatch ? passwordMatch[1] : "Password not found";
-
         cy.clubLogin(env, username, password)
-
         cy.setNewPassword(tableData.password)
         cy.storeCreds(env, username, tableData.password, tableData)
-
-
         cy.clubLogin(env, username, tableData.password)
 
     });
@@ -126,13 +139,11 @@ Cypress.Commands.add("clubDetailsUpdate", (tableData) => {
         ['[name="twitterLink"]', `${tableData.x}`, 1, ''],
         ['[name="line"]', `${tableData.line}`, 1, ''],
         ['[name="websiteLink"]', `${tableData.website}`, 1, ''],
-        ['[name="facebookLink"]', `${tableData.facebook}`, 1, ''],
-
         ['[name="regularFee"]', `${tableData.regularFee}`, 1, ''],
         ['[name="designationFee"]', `${tableData.designationFee}`, 1, ''],
         ['[name="companionFee"]', `${tableData.companionFee}`, 1, ''],
         ['[name="extensionFee"]', `${tableData.extensionFee}`, 1, ''],
-        ['[name="drinksFee"]', `${tableData.drinksFee}`, 1, ''],
+        ['[name="drinksFee"]', `${tableData.serviceFee}`, 1, ''],
         ['[name="tax"]', `${tableData.tax}`, 1, ''],
 
 
@@ -146,9 +157,7 @@ Cypress.Commands.add("clubDetailsUpdate", (tableData) => {
         ['[name="workingHourTo"]', `${tableData.workingHoursTo}`, ''],
         ['[name="lastEntryTime"]', `${tableData.lastEntryTime}`, ''],
         ['[name="lastOrderTime"]', `${tableData.lastOrderTime}`, ''],
-
         ['[name="closingDate"]', `${tableData.closingDate}`, ''],
-
     ])
     cy.get('[data-e2e="release"]').click().wait(1000)
 
@@ -172,7 +181,7 @@ Cypress.Commands.add("changeClubLogoAndBanner", (tableData) => {
 })
 
 Cypress.Commands.add("uploadGallery", (env, imageLocation, fileName) => {
-    cy.visit(Cypress.env(env).clubUrl + '/media').wait(3000);
+    cy.visit(Cypress.env(env).clubUrl + '/owner/cp/media').wait(3000);
 
     // Check for folder name; if it doesn't exist, create the folder
     cy.get('body').then($body => {
@@ -182,13 +191,13 @@ Cypress.Commands.add("uploadGallery", (env, imageLocation, fileName) => {
 
         if (elementsContainingText.length > 0) {
             // Folder exists; navigate to it
-            cy.get('.css-tjq8tt').contains(fileName).click();
-            cy.get('.css-pcwo9u').contains(fileName).click();
+            cy.contains(fileName).eq(0).click();
+            cy.get('.no-scrollbar').contains(fileName).click();
         } else {
             // Folder doesn't exist; create it
             cy.log(`No elements found with text "${fileName}"`);
 
-            cy.get('.css-wuwme8').click();
+            cy.contains('フォルダを追加').click();
             cy.typeText([
                 ['[name="FolderName"]', fileName, 0, ''],
                 ['[name="LabelName"]', fileName, 0, '']
